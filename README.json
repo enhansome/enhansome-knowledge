@@ -1,0 +1,988 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-progressive-web-apps",
+          "description": "打造 的资源集合",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-01-13T09:19:12Z",
+            "owner": "TalAter",
+            "repo": "awesome-progressive-web-apps",
+            "stars": 1578
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React 同构应用 PWA 升级指南",
+          "description": "☆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-04-04T08:03:18Z",
+            "owner": "happylindz",
+            "repo": "blog",
+            "stars": 936
+          }
+        }
+      ],
+      "title": "PWA"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CMD",
+          "description": "☆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-03T13:54:20Z",
+            "owner": "seajs",
+            "repo": "seajs",
+            "stars": 8259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AMD",
+          "description": "☆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-02-09T21:41:17Z",
+            "owner": "amdjs",
+            "repo": "amdjs-api",
+            "stars": 4295
+          }
+        }
+      ],
+      "title": "模块化编程"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "初级 ☆",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "原型与原型链",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-06-09T09:43:14Z",
+                "owner": "mqyqingfeng",
+                "repo": "Blog",
+                "stars": 31084
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "作用域",
+              "description": "与作用域链",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-06-09T09:43:14Z",
+                "owner": "mqyqingfeng",
+                "repo": "Blog",
+                "stars": 31084
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "为什么要有 ES6",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-06-02T14:35:42Z",
+                "owner": "jeyvie",
+                "repo": "thoughts",
+                "stars": 0
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "中级 ☆☆",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "33 Concepts Every JavaScript Developer Should Know",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-02T14:51:44Z",
+                "owner": "leonardomso",
+                "repo": "33-js-concepts",
+                "stars": 66513
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "ES6",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Generator",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2018-04-28T02:15:50Z",
+                    "owner": "jeyvie",
+                    "repo": "understanding-ES6",
+                    "stars": 19
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Promise",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2018-04-28T02:15:50Z",
+                    "owner": "jeyvie",
+                    "repo": "understanding-ES6",
+                    "stars": 19
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Module",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2018-04-28T02:15:50Z",
+                    "owner": "jeyvie",
+                    "repo": "understanding-ES6",
+                    "stars": 19
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Class",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2018-04-28T02:15:50Z",
+                    "owner": "jeyvie",
+                    "repo": "understanding-ES6",
+                    "stars": 19
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "高级 ☆☆☆",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "TypeScript",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "TypeScript 总体架构",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-13T01:06:52Z",
+                    "owner": "microsoft",
+                    "repo": "TypeScript",
+                    "stars": 110167
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "You-Dont-Know-JS",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Up & Going",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2026-02-15T04:36:44Z",
+                    "owner": "getify",
+                    "repo": "You-Dont-Know-JS",
+                    "stars": 184653
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Scope & Closures",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2026-02-15T04:36:44Z",
+                    "owner": "getify",
+                    "repo": "You-Dont-Know-JS",
+                    "stars": 184653
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "this & Object Prototypes",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2026-02-15T04:36:44Z",
+                    "owner": "getify",
+                    "repo": "You-Dont-Know-JS",
+                    "stars": 184653
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Types & Grammar",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2026-02-15T04:36:44Z",
+                    "owner": "getify",
+                    "repo": "You-Dont-Know-JS",
+                    "stars": 184653
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Async & Performance",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2026-02-15T04:36:44Z",
+                    "owner": "getify",
+                    "repo": "You-Dont-Know-JS",
+                    "stars": 184653
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ES6 & Beyond",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2026-02-15T04:36:44Z",
+                    "owner": "getify",
+                    "repo": "You-Dont-Know-JS",
+                    "stars": 184653
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "JavaScript 如何工作",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "在 V8 引擎里 5 个优化代码的技巧",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2024-04-17T09:44:37Z",
+                    "owner": "xitu",
+                    "repo": "gold-miner",
+                    "stars": 34330
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "内存管理 + 处理常见的4种内存泄漏",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2024-04-17T09:44:37Z",
+                    "owner": "xitu",
+                    "repo": "gold-miner",
+                    "stars": 34330
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "事件循环和异步编程的崛起 + 5个如何更好的使用 async/await 编码的技巧",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2024-04-17T09:44:37Z",
+                    "owner": "xitu",
+                    "repo": "gold-miner",
+                    "stars": 34330
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "深入剖析 WebSockets 和拥有 SSE 技术 的 HTTP/2，以及如何在二者中做出正确的选择",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2024-04-17T09:44:37Z",
+                    "owner": "xitu",
+                    "repo": "gold-miner",
+                    "stars": 34330
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "对比 WebAssembly + 为什么在某些场景下它比 JavaScript 更合适",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2024-04-17T09:44:37Z",
+                    "owner": "xitu",
+                    "repo": "gold-miner",
+                    "stars": 34330
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Web Worker 的内部构造以及 5 种你应当使用它的场景",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2024-04-17T09:44:37Z",
+                    "owner": "xitu",
+                    "repo": "gold-miner",
+                    "stars": 34330
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "扩展",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "30S JS",
+              "description": "☆☆",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-08T05:23:45Z",
+                "owner": "Chalarangelo",
+                "repo": "30-seconds-of-code",
+                "stars": 128706
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "33 Concepts Every JavaScript Developer Should Know",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-02T14:51:44Z",
+                "owner": "leonardomso",
+                "repo": "33-js-concepts",
+                "stars": 66513
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ES6 语法侦测",
+              "description": "☆",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2019-07-16T13:38:38Z",
+                "owner": "ruanyf",
+                "repo": "es-checker",
+                "stars": 1019
+              }
+            }
+          ]
+        }
+      ],
+      "title": "JS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "前端代码异常监控实战",
+          "description": "☆☆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-04-04T08:03:18Z",
+            "owner": "happylindz",
+            "repo": "blog",
+            "stars": 936
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "APM",
+          "description": "☆☆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-07-05T08:25:04Z",
+            "owner": "f2e-awesome",
+            "repo": "monitoring",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "监控"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Web 研发模式演变",
+          "description": "☆☆",
+          "children": []
+        },
+        {
+          "node_type": "group",
+          "title": "Webpack",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "webpack 性能优化",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "减小前端资源大小",
+                  "description": "☆☆",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "HTML",
+                    "last_commit": "2019-05-14T11:17:50Z",
+                    "owner": "yued-fe",
+                    "repo": "y-translation",
+                    "stars": 154
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "利用好持久化缓存",
+                  "description": "☆☆☆",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "HTML",
+                    "last_commit": "2019-05-14T11:17:50Z",
+                    "owner": "yued-fe",
+                    "repo": "y-translation",
+                    "stars": 154
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "监控和分析应用",
+                  "description": "☆☆☆",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "HTML",
+                    "last_commit": "2019-05-14T11:17:50Z",
+                    "owner": "yued-fe",
+                    "repo": "y-translation",
+                    "stars": 154
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Babel",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Babel 插件手册",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-06-25T15:30:34Z",
+                "owner": "jamiebuilds",
+                "repo": "babel-handbook",
+                "stars": 12095
+              }
+            }
+          ]
+        }
+      ],
+      "title": "前端工程化"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Angular",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "build-your-own-angularjs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-12-29T06:59:24Z",
+                "owner": "teropa",
+                "repo": "build-your-own-angularjs",
+                "stars": 602
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "React",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "react-app-rewired",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-11T02:27:35Z",
+                "owner": "timarney",
+                "repo": "react-app-rewired",
+                "stars": 9842
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "30 seconds of React",
+              "description": "☆☆",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2023-05-07T17:10:12Z",
+                "owner": "Chalarangelo",
+                "repo": "30-seconds-of-react",
+                "stars": 5070
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Redux-Saga",
+              "description": "☆☆☆",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2020-08-20T06:29:35Z",
+                "owner": "superRaytin",
+                "repo": "redux-saga-in-chinese",
+                "stars": 631
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "Redux",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Redux 中文文档",
+                  "description": "☆☆",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "JavaScript",
+                    "last_commit": "2024-06-20T16:14:21Z",
+                    "owner": "nefe",
+                    "repo": "redux-in-chinese",
+                    "stars": 3454
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "主流框架"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nodejs 最佳实践",
+          "description": "☆☆☆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2026-06-15T11:41:04Z",
+            "owner": "goldbergyoni",
+            "repo": "nodebestpractices",
+            "stars": 105516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nginx",
+          "description": "☆☆☆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T19:39:54Z",
+            "owner": "nginx",
+            "repo": "nginx",
+            "stars": 31404
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nodejs-learning-guide",
+          "description": "☆☆☆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-08-22T05:55:31Z",
+            "owner": "chyingp",
+            "repo": "nodejs-learning-guide",
+            "stars": 6871
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deno",
+          "description": "☆☆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-08-15T13:18:38Z",
+            "owner": "ry",
+            "repo": "deno",
+            "stars": 448
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Nodejs",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "基础 web 框架",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "group",
+                  "title": "Koa",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "koajs examples",
+                      "description": "☆☆",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "language": "JavaScript",
+                        "last_commit": "2025-07-31T08:24:38Z",
+                        "owner": "koajs",
+                        "repo": "examples",
+                        "stars": 4531
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "kick-off-koa",
+                      "description": "☆",
+                      "children": [],
+                      "repo_info": {
+                        "archived": true,
+                        "language": "JavaScript",
+                        "last_commit": "2024-06-03T15:34:08Z",
+                        "owner": "koajs",
+                        "repo": "kick-off-koa",
+                        "stars": 700
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "koa workshop",
+                      "description": "☆☆",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "language": "JavaScript",
+                        "last_commit": "2026-02-16T13:08:22Z",
+                        "owner": "koajs",
+                        "repo": "workshop",
+                        "stars": 443
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "高度集成 web 框架",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "node debug",
+                  "description": "☆☆",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2021-09-02T18:49:43Z",
+                    "owner": "nswbmw",
+                    "repo": "node-in-debugging",
+                    "stars": 6455
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Stream",
+                  "description": "☆☆",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "Web 服务器端"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vue.js 源码解析",
+          "description": "☆☆☆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-16T16:48:01Z",
+            "owner": "answershuto",
+            "repo": "learnVue",
+            "stars": 12669
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Webpack 源码",
+          "description": "☆☆☆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-09-06T13:30:30Z",
+            "owner": "youngwind",
+            "repo": "blog",
+            "stars": 4655
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "自己动手做一个 Vue",
+          "description": "☆☆☆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-09-28T05:02:03Z",
+            "owner": "fastCreator",
+            "repo": "MVVM",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-come-true",
+          "description": "☆☆☆",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-02T03:31:16Z",
+            "owner": "coderzzp",
+            "repo": "vue-come-true",
+            "stars": 134
+          }
+        }
+      ],
+      "title": "源码学习"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rustlings",
+          "description": "：这个项目包含小练习，让你习惯阅读和编写 Rust 代码。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T11:46:06Z",
+            "owner": "rust-lang",
+            "repo": "rustlings",
+            "stars": 63857
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Rust",
+          "description": "：Rust 代码和资源的精选列表",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T21:42:33Z",
+            "owner": "rust-unofficial",
+            "repo": "awesome-rust",
+            "stars": 58814
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Comprehensive Rust",
+          "description": "： Google 打造的 Android 系列课",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-05T08:02:33Z",
+            "owner": "google",
+            "repo": "comprehensive-rust",
+            "stars": 33297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Book|The Rust Programming Language",
+          "description": "：\"The Rust Programming Language\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-14T01:25:26Z",
+            "owner": "rust-lang",
+            "repo": "book",
+            "stars": 18178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rust 相关资源",
+          "description": "：定期收集 Rust 最新资源",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-04-23T02:30:03Z",
+            "owner": "chenfengyanyu",
+            "repo": "my-rust-practice",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Rust"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T11:13:01.718Z",
+    "original_repository": "f2e-awesome/knowledge",
+    "original_repository_sha": "81ca0902aa98fb60c83067e312924bfa28c3ba72",
+    "enhanced_repository": "enhansome/enhansome-knowledge",
+    "enhanced_repository_description": null,
+    "title": "F2E-Awesome with stars"
+  }
+}

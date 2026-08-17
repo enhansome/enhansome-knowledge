@@ -101,7 +101,7 @@
 * [快速上手小程序](http://jartto.wang/2018/01/25/quick-start-mini-programs/) ☆☆
 * [细数小程序的坑](http://jartto.wang/2018/02/08/count-pit-of-mini-programs/) ☆☆
 * [小程序开发 Tips](http://jartto.wang/2018/03/06/tips-of-mini-programs/) ☆☆
-* [Taro 多端统一开发框架](https://github.com/NervJS/taro) ⭐ 37,639 | 🐛 1,594 | 🌐 TypeScript | 📅 2026-08-11
+* [Taro 多端统一开发框架](https://github.com/NervJS/taro) ⭐ 37,640 | 🐛 1,594 | 🌐 TypeScript | 📅 2026-08-17
 
 ### WebGL
 
@@ -169,7 +169,7 @@
 
 * [前端数据结构与算法入门](https://mp.weixin.qq.com/s/UgLUXLJ6bSnQ2ZIZnTqLUg) ☆
 * [算法练习](https://leetcode-cn.com/problemset/all/) ☆☆
-* [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md) ⭐ 196,469 | 🐛 403 | 🌐 JavaScript | 📅 2026-07-26 ☆☆☆
+* [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md) ⭐ 196,495 | 🐛 404 | 🌐 JavaScript | 📅 2026-07-26 ☆☆☆
 * 算法入门 ☆☆
   * [算法图解1 - 二分查找和大O表示法](http://jartto.wang/2018/11/22/algorithm1/)
   * [算法图解2 - 数组和链表](http://jartto.wang/2018/11/25/algorithm2/)
@@ -452,7 +452,7 @@
 * [JSHint](http://www.jslint.com) ☆
 * [styleLint](https://stylelint.io/) ☆
 * [EditorConfig](https://editorconfig.org/)
-* [Airbnb JavaScript](https://github.com/airbnb/javascript?utm_source=gold_browser_extension) ⭐ 148,144 | 🐛 162 | 🌐 JavaScript | 📅 2026-04-16 \*\*
+* [Airbnb JavaScript](https://github.com/airbnb/javascript?utm_source=gold_browser_extension) ⭐ 148,137 | 🐛 163 | 🌐 JavaScript | 📅 2026-04-16 \*\*
 * [项目规范化开发探索](https://www.notion.so/57b80f3f75b741e3a54546c20ae5e8e7) \*
 * [看看这些被同事喷的 JS 代码风格你写过多少](https://juejin.im/post/5becf928f265da61380ec986) \*
 * [谷歌工程实践 - Code Review 标准](https://jimmysong.io/eng-practices/docs/review/reviewer/standard/) \*\*
@@ -461,7 +461,7 @@
 
 * [Nginx](http://jartto.wang/2017/04/15/nginx-exception-handling/) ☆☆
 * [Nginx 平滑的基于权重轮询算法分析](https://tenfy.cn/2018/11/12/smooth-weighted-round-robin/?hmsr=toutiao.io\&utm_medium=toutiao.io\&utm_source=toutiao.io) ☆☆☆
-* [Nginx](https://github.com/nginx/nginx) ⭐ 31,428 | 🐛 471 | 🌐 C | 📅 2026-08-11 ☆☆☆
+* [Nginx](https://github.com/nginx/nginx) ⭐ 31,435 | 🐛 474 | 🌐 C | 📅 2026-08-11 ☆☆☆
 * [Nginx 解决跨域问题](http://www.nginx.cn/4592.html) ☆
 * [关于负载均衡的一切](https://mp.weixin.qq.com/s/xvozZjmn-CvmQMAEAyDc3w) ☆☆
 * [负载均衡的算法](https://mp.weixin.qq.com/s/fkYnkT6PW0I2MS2d2Nh1jg) ☆☆
@@ -482,15 +482,15 @@
 
 * [Google V8 引擎运用了哪些优秀的算法？](https://www.zhihu.com/question/22498967) ☆☆☆
 * [V8 引擎详解](https://blog.csdn.net/swimming_in_it_/article/details/78869549) ☆☆☆
-* [Google V8](https://github.com/v8/v8) ⭐ 25,193 | 🐛 19 | 🌐 C++ | 📅 2026-08-15 ☆☆☆
+* [Google V8](https://github.com/v8/v8) ⭐ 25,196 | 🐛 19 | 🌐 C++ | 📅 2026-08-17 ☆☆☆
 * [V8 并发标记](https://mp.weixin.qq.com/s/pv_4YRo6KjLiVxLViZTr2Q) ☆☆☆
 * [V8 引擎的 5 个优化技巧](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e) ☆☆☆
 
 ### JS
 
 * 初级 ☆
-  * [原型与原型链](https://github.com/mqyqingfeng/Blog/issues/2) ⭐ 31,080 | 🐛 332 | 📅 2026-06-09
-  * [作用域](https://github.com/mqyqingfeng/Blog/issues/3) ⭐ 31,080 | 🐛 332 | 📅 2026-06-09与[作用域链](https://github.com/mqyqingfeng/Blog/issues/6) ⭐ 31,080 | 🐛 332 | 📅 2026-06-09
+  * [原型与原型链](https://github.com/mqyqingfeng/Blog/issues/2) ⭐ 31,081 | 🐛 332 | 📅 2026-06-09
+  * [作用域](https://github.com/mqyqingfeng/Blog/issues/3) ⭐ 31,081 | 🐛 332 | 📅 2026-06-09与[作用域链](https://github.com/mqyqingfeng/Blog/issues/6) ⭐ 31,081 | 🐛 332 | 📅 2026-06-09
   * [为什么要有 ES6](https://github.com/jeyvie/thoughts/blob/master/docs/why_es6.md) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2018-06-02
   * [JavaScript ES12 新特性抢先体验](https://mp.weixin.qq.com/s/T2IkxRp_PXkhk8T_ciLvjw) ☆
   * [JS 标准参考教程](https://www.kancloud.cn/kancloud/javascript-standards-reference/46466)
@@ -508,7 +508,7 @@
   * [ECMAScript 6 - 阮一峰](http://javascript.ruanyifeng.com/advanced/ecmascript6.html#)
   * [浏览器同源政策及其规避方法](http://www.138dish.cn/web/same-origin-policy.html)
 * 中级 ☆☆
-  * [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts?utm_source=gold_browser_extension) ⭐ 66,511 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-02
+  * [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts?utm_source=gold_browser_extension) ⭐ 66,508 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-02
   * [JS 模板引擎](http://jartto.wang/2016/09/15/grasp-a-js-template-engine/)
   * [前端路由跳转基本原理](https://juejin.im/post/5c52da9ee51d45221f242804?utm_source=gold_browser_extension)
   * 垃圾回收
@@ -529,7 +529,7 @@
   * [JavaScript 引擎基础：Shapes 和 Inline Caches](https://juejin.im/entry/5b27a175e51d4558c23231dc?utm_source=gold_browser_extension)
 * 高级 ☆☆☆
   * TypeScript
-    * [TypeScript 总体架构](https://github.com/Microsoft/TypeScript/wiki/Architectural-Overview) ⭐ 110,174 | 🐛 5,076 | 🌐 TypeScript | 📅 2026-08-14
+    * [TypeScript 总体架构](https://github.com/Microsoft/TypeScript/wiki/Architectural-Overview) ⭐ 110,178 | 🐛 5,078 | 🌐 TypeScript | 📅 2026-08-14
     * [TypeScript 官网](https://www.tslang.cn)
     * [深入 TypeScript 的类型系统](https://zhuanlan.zhihu.com/p/38081852)
     * [TypeScript 完全手册](https://zhuanlan.zhihu.com/p/83689446?hmsr=toutiao.io\&utm_medium=toutiao.io\&utm_source=toutiao.io)
@@ -543,17 +543,17 @@
     * [ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond) ⭐ 184,673 | 🐛 2 | 📅 2026-02-15
   * [exploring ES6](http://exploringjs.com/es6/)
   * JavaScript 如何工作
-    * [在 V8 引擎里 5 个优化代码的技巧](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code.md) ⭐ 34,329 | 🐛 15 | 📅 2024-04-17
-    * [内存管理 + 处理常见的4种内存泄漏](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks.md) ⭐ 34,329 | 🐛 15 | 📅 2024-04-17
-    * [事件循环和异步编程的崛起 + 5个如何更好的使用 async/await 编码的技巧](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with.md) ⭐ 34,329 | 🐛 15 | 📅 2024-04-17
-    * [深入剖析 WebSockets 和拥有 SSE 技术 的 HTTP/2，以及如何在二者中做出正确的选择](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path.md) ⭐ 34,329 | 🐛 15 | 📅 2024-04-17
-    * [对比 WebAssembly + 为什么在某些场景下它比 JavaScript 更合适](https://github.com/xitu/gold-miner/blob/master/TODO1/how-javascript-works-a-comparison-with-webassembly-why-in-certain-cases-its-better-to-use-it.md) ⭐ 34,329 | 🐛 15 | 📅 2024-04-17
-    * [Web Worker 的内部构造以及 5 种你应当使用它的场景](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them.md) ⭐ 34,329 | 🐛 15 | 📅 2024-04-17
+    * [在 V8 引擎里 5 个优化代码的技巧](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code.md) ⭐ 34,327 | 🐛 15 | 📅 2024-04-17
+    * [内存管理 + 处理常见的4种内存泄漏](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks.md) ⭐ 34,327 | 🐛 15 | 📅 2024-04-17
+    * [事件循环和异步编程的崛起 + 5个如何更好的使用 async/await 编码的技巧](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with.md) ⭐ 34,327 | 🐛 15 | 📅 2024-04-17
+    * [深入剖析 WebSockets 和拥有 SSE 技术 的 HTTP/2，以及如何在二者中做出正确的选择](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path.md) ⭐ 34,327 | 🐛 15 | 📅 2024-04-17
+    * [对比 WebAssembly + 为什么在某些场景下它比 JavaScript 更合适](https://github.com/xitu/gold-miner/blob/master/TODO1/how-javascript-works-a-comparison-with-webassembly-why-in-certain-cases-its-better-to-use-it.md) ⭐ 34,327 | 🐛 15 | 📅 2024-04-17
+    * [Web Worker 的内部构造以及 5 种你应当使用它的场景](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them.md) ⭐ 34,327 | 🐛 15 | 📅 2024-04-17
     * [对引擎、运行时、调用堆栈的概述](https://juejin.im/post/5a05b4576fb9a04519690d42)
     * [内存管理速成教程](https://mp.weixin.qq.com/s/sVcGRUZqILCVgfhzRyODTg)
 * 扩展
-  * [30S JS](https://github.com/Chalarangelo/30-seconds-of-code) ⭐ 128,721 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-08 ☆☆
-  * [33 Concepts Every JavaScript Developer Should Know ](https://github.com/leonardomso/33-js-concepts?utm_source=gold_browser_extension#1-call-stack) ⭐ 66,511 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-02
+  * [30S JS](https://github.com/Chalarangelo/30-seconds-of-code) ⭐ 128,732 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-08 ☆☆
+  * [33 Concepts Every JavaScript Developer Should Know ](https://github.com/leonardomso/33-js-concepts?utm_source=gold_browser_extension#1-call-stack) ⭐ 66,508 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-02
   * [ES6 语法侦测](https://github.com/ruanyf/es-checker) ⭐ 1,019 | 🐛 0 | 🌐 JavaScript | 📅 2019-07-16 ☆
   * [何谓 JS 挖矿](http://jartto.wang/2017/11/08/js-dig-ore/) ☆
   * [初探 performance – 监控网页与程序性能](https://www.cnblogs.com/zhuyang/p/4789020.html)
@@ -594,7 +594,7 @@
 * [Fiddler](https://www.telerik.com/fiddler) ☆☆
 * [Charles](https://www.charlesproxy.com) ☆☆
 * [HttpWatch](http://www.oneapm.com/lp/bihttpwatch) ☆☆
-* [spy-debugger](https://github.com/wuchangming/spy-debugger) ⭐ 7,616 | 🐛 106 | 🌐 JavaScript | 📅 2025-09-01 ☆☆
+* [spy-debugger](https://github.com/wuchangming/spy-debugger) ⭐ 7,617 | 🐛 106 | 🌐 JavaScript | 📅 2025-09-01 ☆☆
 * 模拟请求
   * [Postman](https://www.getpostman.com) ☆☆
 
@@ -612,7 +612,7 @@
   * [selenium\_webdriver](https://www.yiibai.com/selenium/selenium_webdriver.html) ☆☆
   * [Appium移动自动化测试](https://www.cnblogs.com/fnng/p/4540731.html) ☆☆
   * [Appium移动自动化测试](https://www.cnblogs.com/fnng/p/4540731.html) ☆☆
-  * [UI 自动化测试](https://github.com/AirtestProject/Airtest) ⭐ 9,508 | 🐛 484 | 🌐 Python | 📅 2026-03-23 ☆☆☆
+  * [UI 自动化测试](https://github.com/AirtestProject/Airtest) ⭐ 9,512 | 🐛 484 | 🌐 Python | 📅 2026-03-23 ☆☆☆
     > 网易UI自动化测试框架，开源的，结合AI，自动更新测试用例、自我学习和需求沉淀。智能测试方向！！！！
 * 应用
   * [React单元测试策略及落地](https://insights.thoughtworks.cn/react-strategies-for-unit-testing/?hmsr=toutiao.io\&utm_medium=toutiao.io\&utm_source=toutiao.io)
@@ -732,7 +732,7 @@
   * Vue-Loader ☆☆
   * [Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/) ☆☆☆
 * React
-  * [react-app-rewired](https://github.com/timarney/react-app-rewired) ⭐ 9,841 | 🐛 24 | 🌐 JavaScript | 📅 2026-08-11
+  * [react-app-rewired](https://github.com/timarney/react-app-rewired) ⭐ 9,840 | 🐛 24 | 🌐 JavaScript | 📅 2026-08-11
   * [30 seconds of React](https://github.com/30-seconds/30-seconds-of-react) ⚠️ Archived ☆☆
   * [Redux-Saga](https://github.com/superRaytin/redux-saga-in-chinese) ⭐ 631 | 🐛 11 | 📅 2020-08-20 ☆☆☆
   * 脚手架 ☆
@@ -804,7 +804,7 @@
 
 ### LowCode
 
-* [国内低代码平台](https://github.com/taowen/awesome-lowcode) ⭐ 14,713 | 🐛 11 | 📅 2024-11-07 ☆☆☆
+* [国内低代码平台](https://github.com/taowen/awesome-lowcode) ⭐ 14,714 | 🐛 11 | 📅 2024-11-07 ☆☆☆
 
 ### 架构
 
@@ -851,7 +851,7 @@
 * [大搜车无线团队](http://f2e.souche.com/)
 * [京东凹凸实验室](https://aotu.io/index.html)
 * [蚂蚁金服·数据体验技术团队](https://juejin.im/user/59659aff5188250cf956e6dd/posts)
-* [前端精读周刊](https://github.com/dt-fe/weekly) ⭐ 31,065 | 🐛 14 | 🌐 JavaScript | 📅 2024-09-09
+* [前端精读周刊](https://github.com/dt-fe/weekly) ⭐ 31,069 | 🐛 14 | 🌐 JavaScript | 📅 2024-09-09
 * [淘系前端团队](https://tophub.today/n/x9ozQE6eXb)
 
 ### 学习网站
@@ -967,9 +967,9 @@
 
 ### Web 服务器端
 
-* [Nodejs 最佳实践](https://github.com/i0natan/nodebestpractices?utm_source=gold_browser_extension) ⭐ 105,546 | 🐛 136 | 🌐 Dockerfile | 📅 2026-06-15 ☆☆☆
-* [Nginx](https://github.com/nginx/nginx) ⭐ 31,428 | 🐛 471 | 🌐 C | 📅 2026-08-11 ☆☆☆
-* [nodejs-learning-guide](https://github.com/chyingp/nodejs-learning-guide) ⭐ 6,869 | 🐛 11 | 🌐 Ruby | 📅 2023-08-22 ☆☆☆
+* [Nodejs 最佳实践](https://github.com/i0natan/nodebestpractices?utm_source=gold_browser_extension) ⭐ 105,577 | 🐛 136 | 🌐 Dockerfile | 📅 2026-06-15 ☆☆☆
+* [Nginx](https://github.com/nginx/nginx) ⭐ 31,435 | 🐛 474 | 🌐 C | 📅 2026-08-11 ☆☆☆
+* [nodejs-learning-guide](https://github.com/chyingp/nodejs-learning-guide) ⭐ 6,868 | 🐛 11 | 🌐 Ruby | 📅 2023-08-22 ☆☆☆
 * [deno](https://github.com/ry/deno) ⭐ 448 | 🐛 0 | 🌐 TypeScript | 📅 2023-08-15 ☆☆
 * [Nodejs](https://nodejs.org/en/)
   * 基础 web 框架
@@ -991,7 +991,7 @@
       * [PM2 初体验](http://jartto.wang/2016/06/27/first-experience-of-pm2/) ☆
       * Forever ☆☆
   * 高度集成 web 框架
-    * [node debug](https://github.com/nswbmw/node-in-debugging) ⭐ 6,455 | 🐛 8 | 📅 2021-09-02 ☆☆
+    * [node debug](https://github.com/nswbmw/node-in-debugging) ⭐ 6,453 | 🐛 8 | 📅 2021-09-02 ☆☆
     * [egg](http://eggjs.org/) ☆☆☆
     * [nest](https://nestjs.com/)
     * [thinkjs](https://thinkjs.org/)
@@ -1025,8 +1025,8 @@
 
 ### 源码学习
 
-* [Vue.js 源码解析](https://github.com/answershuto/learnVue) ⭐ 12,669 | 🐛 19 | 🌐 JavaScript | 📅 2023-02-16 ☆☆☆
-* [Webpack 源码](https://github.com/youngwind/blog/issues/99) ⭐ 4,655 | 🐛 116 | 📅 2023-09-06 ☆☆☆
+* [Vue.js 源码解析](https://github.com/answershuto/learnVue) ⭐ 12,668 | 🐛 19 | 🌐 JavaScript | 📅 2023-02-16 ☆☆☆
+* [Webpack 源码](https://github.com/youngwind/blog/issues/99) ⭐ 4,654 | 🐛 116 | 📅 2023-09-06 ☆☆☆
 * [自己动手做一个 Vue](https://github.com/fastCreator/MVVM) ⭐ 225 | 🐛 4 | 🌐 JavaScript | 📅 2018-09-28 ☆☆☆
 * [vue-come-true](https://github.com/coderzzp/vue-come-true) ⭐ 134 | 🐛 0 | 🌐 JavaScript | 📅 2018-05-02 ☆☆☆
 * [Lodash 源码分析（一）“Function” Methods](https://segmentfault.com/a/1190000010775719) ☆☆☆
@@ -1051,13 +1051,13 @@
 
 ### Rust
 
-* [rustlings](https://github.com/rust-lang/rustlings) ⭐ 63,874 | 🐛 34 | 🌐 Rust | 📅 2026-08-11：这个项目包含小练习，让你习惯阅读和编写 Rust 代码。
-* [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 58,849 | 🐛 8 | 🌐 Rust | 📅 2026-08-15 ：Rust 代码和资源的精选列表
-* [Comprehensive Rust](https://github.com/google/comprehensive-rust) ⭐ 33,307 | 🐛 170 | 🌐 Rust | 📅 2026-08-05： Google 打造的 Android 系列课
-* [Book|The Rust Programming Language](https://github.com/rust-lang/book) ⭐ 18,182 | 🐛 418 | 🌐 Rust | 📅 2026-07-14："The Rust Programming Language"
-* [Rust 相关资源](https://github.com/chenfengyanyu/my-rust-practice/tree/main/rust_source) ⭐ 8 | 🐛 0 | 🌐 Rust | 📅 2023-04-23：定期收集 Rust 最新资源
+* [rustlings](https://github.com/rust-lang/rustlings) ⭐ 63,883 | 🐛 34 | 🌐 Rust | 📅 2026-08-11：这个项目包含小练习，让你习惯阅读和编写 Rust 代码。
+* [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 58,863 | 🐛 7 | 🌐 Rust | 📅 2026-08-17 ：Rust 代码和资源的精选列表
+* [Comprehensive Rust](https://github.com/google/comprehensive-rust) ⭐ 33,309 | 🐛 170 | 🌐 Rust | 📅 2026-08-05： Google 打造的 Android 系列课
+* [Book|The Rust Programming Language](https://github.com/rust-lang/book) ⭐ 18,185 | 🐛 418 | 🌐 Rust | 📅 2026-07-14："The Rust Programming Language"
+* [Rust 相关资源](https://github.com/chenfengyanyu/my-rust-practice/tree/main/rust_source) ⭐ 8 | 🐛 1 | 🌐 Rust | 📅 2023-04-23：定期收集 Rust 最新资源
 * [Rust Web全栈开发](https://www.bilibili.com/video/BV1RP4y1G7KF/?p=1\&spm_id_from=pageDriver)：杨旭教学视频
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._

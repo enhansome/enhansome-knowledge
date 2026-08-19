@@ -260,7 +260,7 @@
                     "last_commit": "2026-02-15T04:36:44Z",
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184712
+                    "stars": 184711
                   }
                 },
                 {
@@ -275,7 +275,7 @@
                     "last_commit": "2026-02-15T04:36:44Z",
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184712
+                    "stars": 184711
                   }
                 },
                 {
@@ -290,7 +290,7 @@
                     "last_commit": "2026-02-15T04:36:44Z",
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184712
+                    "stars": 184711
                   }
                 },
                 {
@@ -305,7 +305,7 @@
                     "last_commit": "2026-02-15T04:36:44Z",
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184712
+                    "stars": 184711
                   }
                 },
                 {
@@ -320,7 +320,7 @@
                     "last_commit": "2026-02-15T04:36:44Z",
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184712
+                    "stars": 184711
                   }
                 },
                 {
@@ -335,7 +335,7 @@
                     "last_commit": "2026-02-15T04:36:44Z",
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184712
+                    "stars": 184711
                   }
                 }
               ]
@@ -734,7 +734,7 @@
             "last_commit": "2026-06-15T11:41:04Z",
             "owner": "goldbergyoni",
             "repo": "nodebestpractices",
-            "stars": 105588
+            "stars": 105589
           }
         },
         {
@@ -954,7 +954,7 @@
             "last_commit": "2026-08-11T11:46:06Z",
             "owner": "rust-lang",
             "repo": "rustlings",
-            "stars": 63900
+            "stars": 63902
           }
         },
         {
@@ -1022,8 +1022,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:48:44.173Z",
+    "last_updated": "2026-08-19T12:37:33.169Z",
     "original_repository": "f2e-awesome/knowledge",
+    "original_repository_id": 133954704,
     "original_repository_sha": "81ca0902aa98fb60c83067e312924bfa28c3ba72",
     "enhanced_repository": "enhansome/enhansome-knowledge",
     "enhanced_repository_description": null,

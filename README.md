@@ -169,7 +169,7 @@
 
 * [前端数据结构与算法入门](https://mp.weixin.qq.com/s/UgLUXLJ6bSnQ2ZIZnTqLUg) ☆
 * [算法练习](https://leetcode-cn.com/problemset/all/) ☆☆
-* [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md) ⭐ 196,521 | 🐛 405 | 🌐 JavaScript | 📅 2026-07-26 ☆☆☆
+* [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md) ⭐ 196,522 | 🐛 405 | 🌐 JavaScript | 📅 2026-07-26 ☆☆☆
 * 算法入门 ☆☆
   * [算法图解1 - 二分查找和大O表示法](http://jartto.wang/2018/11/22/algorithm1/)
   * [算法图解2 - 数组和链表](http://jartto.wang/2018/11/25/algorithm2/)
@@ -529,18 +529,18 @@
   * [JavaScript 引擎基础：Shapes 和 Inline Caches](https://juejin.im/entry/5b27a175e51d4558c23231dc?utm_source=gold_browser_extension)
 * 高级 ☆☆☆
   * TypeScript
-    * [TypeScript 总体架构](https://github.com/Microsoft/TypeScript/wiki/Architectural-Overview) ⭐ 110,204 | 🐛 5,053 | 🌐 TypeScript | 📅 2026-08-14
+    * [TypeScript 总体架构](https://github.com/Microsoft/TypeScript/wiki/Architectural-Overview) ⭐ 110,204 | 🐛 5,054 | 🌐 TypeScript | 📅 2026-08-14
     * [TypeScript 官网](https://www.tslang.cn)
     * [深入 TypeScript 的类型系统](https://zhuanlan.zhihu.com/p/38081852)
     * [TypeScript 完全手册](https://zhuanlan.zhihu.com/p/83689446?hmsr=toutiao.io\&utm_medium=toutiao.io\&utm_source=toutiao.io)
     * [如何用 Decorator 装饰你的 Typescript？](https://mp.weixin.qq.com/s/0JTvJJNX4zwE3-Kl6dMvrA)
   * You-Dont-Know-JS
-    * [Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) ⭐ 184,712 | 🐛 2 | 📅 2026-02-15
-    * [Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) ⭐ 184,712 | 🐛 2 | 📅 2026-02-15
-    * [this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) ⭐ 184,712 | 🐛 2 | 📅 2026-02-15
-    * [Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) ⭐ 184,712 | 🐛 2 | 📅 2026-02-15
-    * [Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) ⭐ 184,712 | 🐛 2 | 📅 2026-02-15
-    * [ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond) ⭐ 184,712 | 🐛 2 | 📅 2026-02-15
+    * [Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) ⭐ 184,711 | 🐛 2 | 📅 2026-02-15
+    * [Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) ⭐ 184,711 | 🐛 2 | 📅 2026-02-15
+    * [this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) ⭐ 184,711 | 🐛 2 | 📅 2026-02-15
+    * [Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) ⭐ 184,711 | 🐛 2 | 📅 2026-02-15
+    * [Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) ⭐ 184,711 | 🐛 2 | 📅 2026-02-15
+    * [ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond) ⭐ 184,711 | 🐛 2 | 📅 2026-02-15
   * [exploring ES6](http://exploringjs.com/es6/)
   * JavaScript 如何工作
     * [在 V8 引擎里 5 个优化代码的技巧](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code.md) ⭐ 34,329 | 🐛 15 | 📅 2024-04-17
@@ -967,7 +967,7 @@
 
 ### Web 服务器端
 
-* [Nodejs 最佳实践](https://github.com/i0natan/nodebestpractices?utm_source=gold_browser_extension) ⭐ 105,588 | 🐛 136 | 🌐 Dockerfile | 📅 2026-06-15 ☆☆☆
+* [Nodejs 最佳实践](https://github.com/i0natan/nodebestpractices?utm_source=gold_browser_extension) ⭐ 105,589 | 🐛 136 | 🌐 Dockerfile | 📅 2026-06-15 ☆☆☆
 * [Nginx](https://github.com/nginx/nginx) ⭐ 31,449 | 🐛 472 | 🌐 C | 📅 2026-08-11 ☆☆☆
 * [nodejs-learning-guide](https://github.com/chyingp/nodejs-learning-guide) ⭐ 6,868 | 🐛 11 | 🌐 Ruby | 📅 2023-08-22 ☆☆☆
 * [deno](https://github.com/ry/deno) ⭐ 448 | 🐛 0 | 🌐 TypeScript | 📅 2023-08-15 ☆☆
@@ -1051,7 +1051,7 @@
 
 ### Rust
 
-* [rustlings](https://github.com/rust-lang/rustlings) ⭐ 63,900 | 🐛 33 | 🌐 Rust | 📅 2026-08-11：这个项目包含小练习，让你习惯阅读和编写 Rust 代码。
+* [rustlings](https://github.com/rust-lang/rustlings) ⭐ 63,902 | 🐛 33 | 🌐 Rust | 📅 2026-08-11：这个项目包含小练习，让你习惯阅读和编写 Rust 代码。
 * [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 58,896 | 🐛 7 | 🌐 Rust | 📅 2026-08-18 ：Rust 代码和资源的精选列表
 * [Comprehensive Rust](https://github.com/google/comprehensive-rust) ⭐ 33,314 | 🐛 170 | 🌐 Rust | 📅 2026-08-05： Google 打造的 Android 系列课
 * [Book|The Rust Programming Language](https://github.com/rust-lang/book) ⭐ 18,195 | 🐛 417 | 🌐 Rust | 📅 2026-07-14："The Rust Programming Language"

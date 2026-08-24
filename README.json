@@ -92,7 +92,7 @@
                 "last_commit": "2026-06-09T09:43:14Z",
                 "owner": "mqyqingfeng",
                 "repo": "Blog",
-                "stars": 31080
+                "stars": 31079
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2026-06-09T09:43:14Z",
                 "owner": "mqyqingfeng",
                 "repo": "Blog",
-                "stars": 31080
+                "stars": 31079
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2026-08-02T14:51:44Z",
                 "owner": "leonardomso",
                 "repo": "33-js-concepts",
-                "stars": 66513
+                "stars": 66517
               }
             },
             {
@@ -235,10 +235,10 @@
                     "archived": false,
                     "id": 20929025,
                     "language": "Go",
-                    "last_commit": "2026-08-21T21:39:39Z",
+                    "last_commit": "2026-08-24T01:47:42Z",
                     "owner": "microsoft",
                     "repo": "TypeScript",
-                    "stars": 110605
+                    "stars": 110646
                   }
                 }
               ]
@@ -260,7 +260,7 @@
                     "last_commit": "2026-02-15T04:36:44Z",
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184716
+                    "stars": 184719
                   }
                 },
                 {
@@ -275,7 +275,7 @@
                     "last_commit": "2026-02-15T04:36:44Z",
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184716
+                    "stars": 184719
                   }
                 },
                 {
@@ -290,7 +290,7 @@
                     "last_commit": "2026-02-15T04:36:44Z",
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184716
+                    "stars": 184719
                   }
                 },
                 {
@@ -305,7 +305,7 @@
                     "last_commit": "2026-02-15T04:36:44Z",
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184716
+                    "stars": 184719
                   }
                 },
                 {
@@ -320,7 +320,7 @@
                     "last_commit": "2026-02-15T04:36:44Z",
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184716
+                    "stars": 184719
                   }
                 },
                 {
@@ -335,7 +335,7 @@
                     "last_commit": "2026-02-15T04:36:44Z",
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184716
+                    "stars": 184719
                   }
                 }
               ]
@@ -357,7 +357,7 @@
                     "last_commit": "2024-04-17T09:44:37Z",
                     "owner": "xitu",
                     "repo": "gold-miner",
-                    "stars": 34328
+                    "stars": 34329
                   }
                 },
                 {
@@ -372,7 +372,7 @@
                     "last_commit": "2024-04-17T09:44:37Z",
                     "owner": "xitu",
                     "repo": "gold-miner",
-                    "stars": 34328
+                    "stars": 34329
                   }
                 },
                 {
@@ -387,7 +387,7 @@
                     "last_commit": "2024-04-17T09:44:37Z",
                     "owner": "xitu",
                     "repo": "gold-miner",
-                    "stars": 34328
+                    "stars": 34329
                   }
                 },
                 {
@@ -402,7 +402,7 @@
                     "last_commit": "2024-04-17T09:44:37Z",
                     "owner": "xitu",
                     "repo": "gold-miner",
-                    "stars": 34328
+                    "stars": 34329
                   }
                 },
                 {
@@ -417,7 +417,7 @@
                     "last_commit": "2024-04-17T09:44:37Z",
                     "owner": "xitu",
                     "repo": "gold-miner",
-                    "stars": 34328
+                    "stars": 34329
                   }
                 },
                 {
@@ -432,7 +432,7 @@
                     "last_commit": "2024-04-17T09:44:37Z",
                     "owner": "xitu",
                     "repo": "gold-miner",
-                    "stars": 34328
+                    "stars": 34329
                   }
                 }
               ]
@@ -456,7 +456,7 @@
                 "last_commit": "2026-08-19T06:19:54Z",
                 "owner": "Chalarangelo",
                 "repo": "30-seconds-of-code",
-                "stars": 128794
+                "stars": 128808
               }
             },
             {
@@ -471,7 +471,7 @@
                 "last_commit": "2026-08-02T14:51:44Z",
                 "owner": "leonardomso",
                 "repo": "33-js-concepts",
-                "stars": 66513
+                "stars": 66517
               }
             },
             {
@@ -734,7 +734,7 @@
             "last_commit": "2026-06-15T11:41:04Z",
             "owner": "goldbergyoni",
             "repo": "nodebestpractices",
-            "stars": 105597
+            "stars": 105599
           }
         },
         {
@@ -749,7 +749,7 @@
             "last_commit": "2026-08-21T13:00:45Z",
             "owner": "nginx",
             "repo": "nginx",
-            "stars": 31471
+            "stars": 31478
           }
         },
         {
@@ -954,7 +954,7 @@
             "last_commit": "2026-08-22T11:33:37Z",
             "owner": "rust-lang",
             "repo": "rustlings",
-            "stars": 63928
+            "stars": 63934
           }
         },
         {
@@ -966,10 +966,10 @@
             "archived": false,
             "id": 21938243,
             "language": "Rust",
-            "last_commit": "2026-08-22T14:37:29Z",
+            "last_commit": "2026-08-24T07:28:27Z",
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 58950
+            "stars": 58955
           }
         },
         {
@@ -984,7 +984,7 @@
             "last_commit": "2026-08-05T08:02:33Z",
             "owner": "google",
             "repo": "comprehensive-rust",
-            "stars": 33323
+            "stars": 33325
           }
         },
         {
@@ -999,7 +999,7 @@
             "last_commit": "2026-07-14T01:25:26Z",
             "owner": "rust-lang",
             "repo": "book",
-            "stars": 18216
+            "stars": 18219
           }
         },
         {
@@ -1022,7 +1022,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T10:44:08.980Z",
+    "last_updated": "2026-08-24T10:56:13.346Z",
     "original_repository": "f2e-awesome/knowledge",
     "original_repository_id": 133954704,
     "original_repository_sha": "81ca0902aa98fb60c83067e312924bfa28c3ba72",

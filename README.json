@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":sunrise: A collection of awesome resources for building progressive web apps",
+            "homepage": null,
             "id": 62992771,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2021-01-13T09:19:12Z",
+            "open_issues": 14,
             "owner": "TalAter",
             "repo": "awesome-progressive-web-apps",
-            "stars": 1578
+            "stars": 1578,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:26.291Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lindz's blog -- 喜欢的话请点 star，想订阅点 watch",
+            "homepage": null,
             "id": 85174113,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-04-04T08:03:18Z",
+            "open_issues": 19,
             "owner": "happylindz",
             "repo": "blog",
-            "stars": 936
+            "stars": 936,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:26.291Z"
         }
@@ -48,12 +58,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。",
+            "homepage": "https://docs.taro.zone/",
             "id": 128624453,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T07:32:17Z",
+            "open_issues": 1596,
             "owner": "NervJS",
             "repo": "taro",
-            "stars": 37655
+            "stars": 37657,
+            "topics": [
+              "javascript",
+              "jquery",
+              "nerv",
+              "nervjs",
+              "react",
+              "react-native",
+              "reactjs",
+              "taro",
+              "typescript",
+              "vue",
+              "vue3",
+              "wechat",
+              "wechat-mini-program",
+              "weixin",
+              "wxapp"
+            ]
           },
           "first_seen": "2026-08-28T21:11:26.291Z"
         }
@@ -75,12 +106,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "技术博客",
+                "homepage": "https://pines-cheng.github.io/blog/",
                 "id": 74806188,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-01-12T09:07:51Z",
+                "open_issues": 172,
                 "owner": "Pines-Cheng",
                 "repo": "blog",
-                "stars": 561
+                "stars": 561,
+                "topics": [
+                  "blog"
+                ]
               },
               "first_seen": "2026-08-28T21:11:26.291Z"
             }
@@ -99,12 +137,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Module Loader for the Web",
+            "homepage": "https://seajs.github.io/seajs/",
             "id": 1205958,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-07-03T13:54:20Z",
+            "open_issues": 157,
             "owner": "seajs",
             "repo": "seajs",
-            "stars": 8258
+            "stars": 8258,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:26.291Z"
         },
@@ -115,12 +158,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Houses the Asynchronous Module Definition API",
+            "homepage": "https://groups.google.com/group/amd-implement",
             "id": 1763730,
             "language": null,
+            "license": null,
             "last_commit": "2016-02-09T21:41:17Z",
+            "open_issues": 14,
             "owner": "amdjs",
             "repo": "amdjs-api",
-            "stars": 4295
+            "stars": 4295,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:26.291Z"
         }
@@ -137,12 +185,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+            "homepage": null,
             "id": 126577260,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-26T02:43:08Z",
+            "open_issues": 404,
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196576
+            "stars": 196577,
+            "topics": [
+              "algorithm",
+              "algorithms",
+              "computer-science",
+              "data-structures",
+              "interview",
+              "interview-preparation",
+              "javascript",
+              "javascript-algorithms"
+            ]
           },
           "first_seen": "2026-08-28T21:11:26.291Z"
         }
@@ -159,12 +221,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript Style Guide",
+            "homepage": null,
             "id": 6498492,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-16T19:24:09Z",
+            "open_issues": 163,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148143
+            "stars": 148144,
+            "topics": [
+              "arrow-functions",
+              "es2015",
+              "es2016",
+              "es2017",
+              "es2018",
+              "es6",
+              "eslint",
+              "javascript",
+              "linting",
+              "naming-conventions",
+              "style-guide",
+              "style-linter",
+              "styleguide",
+              "tc39"
+            ]
           },
           "first_seen": "2026-08-28T21:11:26.291Z"
         }
@@ -181,12 +263,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official NGINX Open Source repository.",
+            "homepage": "https://nginx.org/",
             "id": 37912398,
             "language": "C",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-26T11:14:21Z",
+            "open_issues": 476,
             "owner": "nginx",
             "repo": "nginx",
-            "stars": 31519
+            "stars": 31519,
+            "topics": [
+              "content-cache",
+              "http",
+              "http2",
+              "http3",
+              "https",
+              "load-balancer",
+              "mail-proxy-server",
+              "nginx",
+              "quic",
+              "reverse-proxy",
+              "security",
+              "tcp-proxy-server",
+              "tls",
+              "udp-proxy-server",
+              "web-server"
+            ]
           },
           "first_seen": "2026-08-28T21:11:26.291Z"
         }
@@ -203,12 +306,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official mirror of the V8 Git repository",
+            "homepage": "https://chromium.googlesource.com/v8/v8.git",
             "id": 24420506,
             "language": "C++",
-            "last_commit": "2026-08-28T17:41:14Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:15:40Z",
+            "open_issues": 18,
             "owner": "v8",
             "repo": "v8",
-            "stars": 25211
+            "stars": 25211,
+            "topics": [
+              "compiler",
+              "interpreter",
+              "javascript",
+              "javascript-engine",
+              "virtual-machine"
+            ]
           },
           "first_seen": "2026-08-28T21:11:26.291Z"
         }
@@ -230,12 +344,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。",
+                "homepage": null,
                 "id": 84811466,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-06-09T09:43:14Z",
+                "open_issues": 332,
                 "owner": "mqyqingfeng",
                 "repo": "Blog",
-                "stars": 31077
+                "stars": 31077,
+                "topics": [
+                  "advanced",
+                  "blog",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T21:11:26.291Z"
             },
@@ -246,12 +369,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。",
+                "homepage": null,
                 "id": 84811466,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-06-09T09:43:14Z",
+                "open_issues": 332,
                 "owner": "mqyqingfeng",
                 "repo": "Blog",
-                "stars": 31077
+                "stars": 31077,
+                "topics": [
+                  "advanced",
+                  "blog",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T21:11:26.291Z"
             },
@@ -262,12 +394,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "自己的一些想法",
+                "homepage": null,
                 "id": 129496025,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-06-02T14:35:42Z",
+                "open_issues": 0,
                 "owner": "jeyvie",
                 "repo": "thoughts",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:26.291Z"
             }
@@ -285,12 +422,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📜 33 JavaScript concepts every developer should know.",
+                "homepage": "https://33jsconcepts.com/",
                 "id": 147350463,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-02T14:51:44Z",
+                "open_issues": 4,
                 "owner": "leonardomso",
                 "repo": "33-js-concepts",
-                "stars": 66514
+                "stars": 66515,
+                "topics": [
+                  "angular",
+                  "concepts",
+                  "es6",
+                  "es6-javascript",
+                  "hacktoberfest",
+                  "javascript",
+                  "javascript-closures",
+                  "javascript-engines",
+                  "javascript-programming",
+                  "nodejs",
+                  "primitive-types",
+                  "programming",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T21:11:26.291Z"
             },
@@ -306,12 +462,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "reminders of es6",
+                    "homepage": null,
                     "id": 127643734,
                     "language": null,
+                    "license": null,
                     "last_commit": "2018-04-28T02:15:50Z",
+                    "open_issues": 3,
                     "owner": "jeyvie",
                     "repo": "understanding-ES6",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": [
+                      "es2015",
+                      "es6"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:11:26.291Z"
                 },
@@ -322,12 +486,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "reminders of es6",
+                    "homepage": null,
                     "id": 127643734,
                     "language": null,
+                    "license": null,
                     "last_commit": "2018-04-28T02:15:50Z",
+                    "open_issues": 3,
                     "owner": "jeyvie",
                     "repo": "understanding-ES6",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": [
+                      "es2015",
+                      "es6"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:11:26.291Z"
                 },
@@ -338,12 +510,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "reminders of es6",
+                    "homepage": null,
                     "id": 127643734,
                     "language": null,
+                    "license": null,
                     "last_commit": "2018-04-28T02:15:50Z",
+                    "open_issues": 3,
                     "owner": "jeyvie",
                     "repo": "understanding-ES6",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": [
+                      "es2015",
+                      "es6"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:11:26.291Z"
                 },
@@ -354,12 +534,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "reminders of es6",
+                    "homepage": null,
                     "id": 127643734,
                     "language": null,
+                    "license": null,
                     "last_commit": "2018-04-28T02:15:50Z",
+                    "open_issues": 3,
                     "owner": "jeyvie",
                     "repo": "understanding-ES6",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": [
+                      "es2015",
+                      "es6"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:11:26.291Z"
                 }
@@ -384,12 +572,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+                    "homepage": "https://www.typescriptlang.org",
                     "id": 20929025,
                     "language": "Go",
-                    "last_commit": "2026-08-28T20:37:40Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-29T00:01:59Z",
+                    "open_issues": 5166,
                     "owner": "microsoft",
                     "repo": "TypeScript",
-                    "stars": 110751
+                    "stars": 110758,
+                    "topics": [
+                      "javascript",
+                      "language",
+                      "typechecker",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:11:26.291Z"
                 }
@@ -407,12 +605,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A book series (2 published editions) on the JS language.",
+                    "homepage": "https://www.amazon.com/dp/B085XXCJ7X",
                     "id": 14440270,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2026-02-15T04:36:44Z",
+                    "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184749
+                    "stars": 184747,
+                    "topics": [
+                      "async",
+                      "book",
+                      "book-series",
+                      "closures",
+                      "education",
+                      "es2015",
+                      "es6",
+                      "javascript",
+                      "learn-to-code",
+                      "programming",
+                      "prototypes",
+                      "training-materials",
+                      "training-providers"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:11:26.291Z"
                 },
@@ -423,12 +640,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A book series (2 published editions) on the JS language.",
+                    "homepage": "https://www.amazon.com/dp/B085XXCJ7X",
                     "id": 14440270,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2026-02-15T04:36:44Z",
+                    "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184749
+                    "stars": 184747,
+                    "topics": [
+                      "async",
+                      "book",
+                      "book-series",
+                      "closures",
+                      "education",
+                      "es2015",
+                      "es6",
+                      "javascript",
+                      "learn-to-code",
+                      "programming",
+                      "prototypes",
+                      "training-materials",
+                      "training-providers"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:11:26.291Z"
                 },
@@ -439,12 +675,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A book series (2 published editions) on the JS language.",
+                    "homepage": "https://www.amazon.com/dp/B085XXCJ7X",
                     "id": 14440270,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2026-02-15T04:36:44Z",
+                    "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184749
+                    "stars": 184747,
+                    "topics": [
+                      "async",
+                      "book",
+                      "book-series",
+                      "closures",
+                      "education",
+                      "es2015",
+                      "es6",
+                      "javascript",
+                      "learn-to-code",
+                      "programming",
+                      "prototypes",
+                      "training-materials",
+                      "training-providers"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:11:26.291Z"
                 },
@@ -455,12 +710,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A book series (2 published editions) on the JS language.",
+                    "homepage": "https://www.amazon.com/dp/B085XXCJ7X",
                     "id": 14440270,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2026-02-15T04:36:44Z",
+                    "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184749
+                    "stars": 184747,
+                    "topics": [
+                      "async",
+                      "book",
+                      "book-series",
+                      "closures",
+                      "education",
+                      "es2015",
+                      "es6",
+                      "javascript",
+                      "learn-to-code",
+                      "programming",
+                      "prototypes",
+                      "training-materials",
+                      "training-providers"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:11:26.291Z"
                 },
@@ -471,12 +745,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A book series (2 published editions) on the JS language.",
+                    "homepage": "https://www.amazon.com/dp/B085XXCJ7X",
                     "id": 14440270,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2026-02-15T04:36:44Z",
+                    "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184749
+                    "stars": 184747,
+                    "topics": [
+                      "async",
+                      "book",
+                      "book-series",
+                      "closures",
+                      "education",
+                      "es2015",
+                      "es6",
+                      "javascript",
+                      "learn-to-code",
+                      "programming",
+                      "prototypes",
+                      "training-materials",
+                      "training-providers"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:11:26.291Z"
                 },
@@ -487,12 +780,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A book series (2 published editions) on the JS language.",
+                    "homepage": "https://www.amazon.com/dp/B085XXCJ7X",
                     "id": 14440270,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2026-02-15T04:36:44Z",
+                    "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184749
+                    "stars": 184747,
+                    "topics": [
+                      "async",
+                      "book",
+                      "book-series",
+                      "closures",
+                      "education",
+                      "es2015",
+                      "es6",
+                      "javascript",
+                      "learn-to-code",
+                      "programming",
+                      "prototypes",
+                      "training-materials",
+                      "training-providers"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:11:26.291Z"
                 }
@@ -510,12 +822,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：",
+                    "homepage": "https://juejin.cn/tag/掘金翻译计划",
                     "id": 45512989,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-04-17T09:44:37Z",
+                    "open_issues": 15,
                     "owner": "xitu",
                     "repo": "gold-miner",
-                    "stars": 34335
+                    "stars": 34335,
+                    "topics": [
+                      "ai",
+                      "android",
+                      "frontend",
+                      "ios",
+                      "javascript",
+                      "react",
+                      "swift",
+                      "tensorflow",
+                      "translation",
+                      "tutorials"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:11:26.291Z"
                 },
@@ -526,12 +854,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：",
+                    "homepage": "https://juejin.cn/tag/掘金翻译计划",
                     "id": 45512989,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-04-17T09:44:37Z",
+                    "open_issues": 15,
                     "owner": "xitu",
                     "repo": "gold-miner",
-                    "stars": 34335
+                    "stars": 34335,
+                    "topics": [
+                      "ai",
+                      "android",
+                      "frontend",
+                      "ios",
+                      "javascript",
+                      "react",
+                      "swift",
+                      "tensorflow",
+                      "translation",
+                      "tutorials"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:11:26.291Z"
                 },
@@ -542,12 +886,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：",
+                    "homepage": "https://juejin.cn/tag/掘金翻译计划",
                     "id": 45512989,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-04-17T09:44:37Z",
+                    "open_issues": 15,
                     "owner": "xitu",
                     "repo": "gold-miner",
-                    "stars": 34335
+                    "stars": 34335,
+                    "topics": [
+                      "ai",
+                      "android",
+                      "frontend",
+                      "ios",
+                      "javascript",
+                      "react",
+                      "swift",
+                      "tensorflow",
+                      "translation",
+                      "tutorials"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:11:26.291Z"
                 },
@@ -558,12 +918,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：",
+                    "homepage": "https://juejin.cn/tag/掘金翻译计划",
                     "id": 45512989,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-04-17T09:44:37Z",
+                    "open_issues": 15,
                     "owner": "xitu",
                     "repo": "gold-miner",
-                    "stars": 34335
+                    "stars": 34335,
+                    "topics": [
+                      "ai",
+                      "android",
+                      "frontend",
+                      "ios",
+                      "javascript",
+                      "react",
+                      "swift",
+                      "tensorflow",
+                      "translation",
+                      "tutorials"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:11:26.291Z"
                 },
@@ -574,12 +950,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：",
+                    "homepage": "https://juejin.cn/tag/掘金翻译计划",
                     "id": 45512989,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-04-17T09:44:37Z",
+                    "open_issues": 15,
                     "owner": "xitu",
                     "repo": "gold-miner",
-                    "stars": 34335
+                    "stars": 34335,
+                    "topics": [
+                      "ai",
+                      "android",
+                      "frontend",
+                      "ios",
+                      "javascript",
+                      "react",
+                      "swift",
+                      "tensorflow",
+                      "translation",
+                      "tutorials"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:11:26.291Z"
                 },
@@ -590,12 +982,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：",
+                    "homepage": "https://juejin.cn/tag/掘金翻译计划",
                     "id": 45512989,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-04-17T09:44:37Z",
+                    "open_issues": 15,
                     "owner": "xitu",
                     "repo": "gold-miner",
-                    "stars": 34335
+                    "stars": 34335,
+                    "topics": [
+                      "ai",
+                      "android",
+                      "frontend",
+                      "ios",
+                      "javascript",
+                      "react",
+                      "swift",
+                      "tensorflow",
+                      "translation",
+                      "tutorials"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:11:26.291Z"
                 }
@@ -615,12 +1023,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Coding articles to level up your development skills",
+                "homepage": "https://30secondsofcode.org/",
                 "id": 112507086,
                 "language": "JavaScript",
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-08-19T06:19:54Z",
+                "open_issues": 0,
                 "owner": "Chalarangelo",
                 "repo": "30-seconds-of-code",
-                "stars": 128848
+                "stars": 128850,
+                "topics": [
+                  "astro",
+                  "awesome-list",
+                  "css",
+                  "education",
+                  "es6-javascript",
+                  "git",
+                  "html",
+                  "javascript",
+                  "learn-to-code",
+                  "learning-resources",
+                  "nodejs",
+                  "programming",
+                  "snippets"
+                ]
               },
               "first_seen": "2026-08-28T21:11:26.291Z"
             },
@@ -631,12 +1058,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📜 33 JavaScript concepts every developer should know.",
+                "homepage": "https://33jsconcepts.com/",
                 "id": 147350463,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-02T14:51:44Z",
+                "open_issues": 4,
                 "owner": "leonardomso",
                 "repo": "33-js-concepts",
-                "stars": 66514
+                "stars": 66515,
+                "topics": [
+                  "angular",
+                  "concepts",
+                  "es6",
+                  "es6-javascript",
+                  "hacktoberfest",
+                  "javascript",
+                  "javascript-closures",
+                  "javascript-engines",
+                  "javascript-programming",
+                  "nodejs",
+                  "primitive-types",
+                  "programming",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T21:11:26.291Z"
             },
@@ -647,12 +1093,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A feature detection library for ECMAScript in node.js and browser.",
+                "homepage": "http://ruanyf.github.io/es-checker",
                 "id": 38243237,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-07-16T13:38:38Z",
+                "open_issues": 0,
                 "owner": "ruanyf",
                 "repo": "es-checker",
-                "stars": 1019
+                "stars": 1019,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:26.291Z"
             }
@@ -671,12 +1122,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接设备。",
+            "homepage": null,
             "id": 49316177,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-09-01T08:25:27Z",
+            "open_issues": 106,
             "owner": "wuchangming",
             "repo": "spy-debugger",
-            "stars": 7618
+            "stars": 7618,
+            "topics": [
+              "debug",
+              "spy-debugger",
+              "wechat",
+              "weinre"
+            ]
           },
           "first_seen": "2026-08-28T21:11:26.291Z"
         }
@@ -698,12 +1159,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UI Automation Framework for Games and Apps",
+                "homepage": "http://airtest.netease.com/",
                 "id": 118709540,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-23T09:16:49Z",
+                "open_issues": 484,
                 "owner": "AirtestProject",
                 "repo": "Airtest",
-                "stars": 9539
+                "stars": 9539,
+                "topics": [
+                  "android",
+                  "automated-testing",
+                  "automation",
+                  "game",
+                  "ios",
+                  "test-automation",
+                  "test-framework",
+                  "unity3d",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T21:11:26.291Z"
             }
@@ -722,12 +1198,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lindz's blog -- 喜欢的话请点 star，想订阅点 watch",
+            "homepage": null,
             "id": 85174113,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-04-04T08:03:18Z",
+            "open_issues": 19,
             "owner": "happylindz",
             "repo": "blog",
-            "stars": 936
+            "stars": 936,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:26.291Z"
         },
@@ -738,12 +1219,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "monitoring system 监控系统，延伸的话是APM (Application Performance Management) 应用+性能+管理",
+            "homepage": null,
             "id": 139803313,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-07-05T08:25:04Z",
+            "open_issues": 0,
             "owner": "f2e-awesome",
             "repo": "monitoring",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "apm",
+              "chrome-devtools",
+              "monitoring",
+              "nodejs",
+              "performance"
+            ]
           },
           "first_seen": "2026-08-28T21:11:26.291Z"
         }
@@ -770,12 +1262,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "阅文前端团队翻译计划",
+                    "homepage": null,
                     "id": 127707491,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2019-05-14T11:17:50Z",
+                    "open_issues": 2,
                     "owner": "yued-fe",
                     "repo": "y-translation",
-                    "stars": 154
+                    "stars": 154,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:26.291Z"
                 },
@@ -786,12 +1283,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "阅文前端团队翻译计划",
+                    "homepage": null,
                     "id": 127707491,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2019-05-14T11:17:50Z",
+                    "open_issues": 2,
                     "owner": "yued-fe",
                     "repo": "y-translation",
-                    "stars": 154
+                    "stars": 154,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:26.291Z"
                 },
@@ -802,12 +1304,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "阅文前端团队翻译计划",
+                    "homepage": null,
                     "id": 127707491,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2019-05-14T11:17:50Z",
+                    "open_issues": 2,
                     "owner": "yued-fe",
                     "repo": "y-translation",
-                    "stars": 154
+                    "stars": 154,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:26.291Z"
                 }
@@ -827,12 +1334,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":blue_book: A guided handbook on how to use Babel and how to create plugins for Babel.",
+                "homepage": null,
                 "id": 44926931,
                 "language": null,
+                "license": "CC-BY-4.0",
                 "last_commit": "2024-06-25T15:30:34Z",
+                "open_issues": 109,
                 "owner": "jamiebuilds",
                 "repo": "babel-handbook",
-                "stars": 12092
+                "stars": 12093,
+                "topics": [
+                  "babel",
+                  "handbook"
+                ]
               },
               "first_seen": "2026-08-28T21:11:26.291Z"
             }
@@ -856,12 +1371,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source Code & Errata for the \"Build Your Own AngularJS\" book. http://teropa.info/build-your-own-angular",
+                "homepage": null,
                 "id": 15649854,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2016-12-29T06:59:24Z",
+                "open_issues": 42,
                 "owner": "teropa",
                 "repo": "build-your-own-angularjs",
-                "stars": 602
+                "stars": 602,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:26.291Z"
             }
@@ -879,12 +1399,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Override create-react-app webpack configs without ejecting",
+                "homepage": null,
                 "id": 65231883,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-11T02:27:35Z",
+                "open_issues": 24,
                 "owner": "timarney",
                 "repo": "react-app-rewired",
-                "stars": 9841
+                "stars": 9841,
+                "topics": [
+                  "config",
+                  "create-react-app",
+                  "eject",
+                  "never",
+                  "react",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-28T21:11:26.291Z"
             },
@@ -895,12 +1427,28 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Short React code snippets for all your development needs",
+                "homepage": "https://www.30secondsofcode.org/react/p/1",
                 "id": 150615193,
                 "language": "JavaScript",
+                "license": "CC-BY-4.0",
                 "last_commit": "2023-05-07T17:10:12Z",
+                "open_issues": 1,
                 "owner": "Chalarangelo",
                 "repo": "30-seconds-of-react",
-                "stars": 5070
+                "stars": 5070,
+                "topics": [
+                  "education",
+                  "javascript",
+                  "learn-to-code",
+                  "learning-resources",
+                  "programming",
+                  "react",
+                  "reactjs",
+                  "snippets",
+                  "snippets-collection",
+                  "snippets-library"
+                ]
               },
               "first_seen": "2026-08-28T21:11:26.291Z"
             },
@@ -911,12 +1459,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Redux-saga 中文文档",
+                "homepage": "https://redux-saga-in-chinese.js.org/",
                 "id": 54982619,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-08-20T06:29:35Z",
+                "open_issues": 11,
                 "owner": "superRaytin",
                 "repo": "redux-saga-in-chinese",
-                "stars": 631
+                "stars": 631,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:26.291Z"
             },
@@ -932,12 +1485,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Redux 中文文档",
+                    "homepage": "https://cn.redux.js.org/",
                     "id": 40458061,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2024-06-20T16:14:21Z",
+                    "open_issues": 11,
                     "owner": "nefe",
                     "repo": "redux-in-chinese",
-                    "stars": 3454
+                    "stars": 3454,
+                    "topics": [
+                      "react",
+                      "redux",
+                      "tutorial"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:11:26.291Z"
                 }
@@ -958,12 +1520,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "国内低代码平台从业者交流",
+            "homepage": null,
             "id": 281703360,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-11-07T02:24:32Z",
+            "open_issues": 11,
             "owner": "taowen",
             "repo": "awesome-lowcode",
-            "stars": 14717
+            "stars": 14717,
+            "topics": [
+              "awesome",
+              "awsome",
+              "low-code",
+              "lowcode",
+              "nocode"
+            ]
           },
           "first_seen": "2026-08-28T21:11:26.291Z"
         }
@@ -980,12 +1553,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A curated collection of common interview questions to help you prepare for your next interview.",
+            "homepage": "https://30secondsofinterviews.org",
             "id": 128564293,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-09T05:29:51Z",
+            "open_issues": 19,
             "owner": "Chalarangelo",
             "repo": "30-seconds-of-interviews",
-            "stars": 12129
+            "stars": 12129,
+            "topics": [
+              "awesome-list",
+              "css",
+              "education",
+              "html",
+              "interview",
+              "interview-questions",
+              "javascript",
+              "learn-to-code",
+              "learning-resources",
+              "snippets",
+              "snippets-collection"
+            ]
           },
           "first_seen": "2026-08-28T21:11:26.291Z"
         }
@@ -1002,12 +1592,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
+            "homepage": null,
             "id": 85541218,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-09-09T01:39:37Z",
+            "open_issues": 15,
             "owner": "ascoders",
             "repo": "weekly",
-            "stars": 31090
+            "stars": 31090,
+            "topics": [
+              "awesome",
+              "frontend",
+              "weekly"
+            ]
           },
           "first_seen": "2026-08-28T21:11:26.291Z"
         }
@@ -1024,12 +1623,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":innocent: 你可能不知道的前端知识点",
+            "homepage": "https://git.io/fjrsr",
             "id": 96167183,
             "language": null,
+            "license": null,
             "last_commit": "2019-06-25T03:29:41Z",
+            "open_issues": 37,
             "owner": "justjavac",
             "repo": "the-front-end-knowledge-you-may-not-know",
-            "stars": 2269
+            "stars": 2269,
+            "topics": [
+              "chrome",
+              "css",
+              "css3",
+              "debug",
+              "frontend",
+              "html",
+              "html5",
+              "javascript",
+              "performance"
+            ]
           },
           "first_seen": "2026-08-28T21:11:26.291Z"
         }
@@ -1056,12 +1670,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "think more！learn more!",
+                    "homepage": null,
                     "id": 119921062,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2024-03-01T11:30:15Z",
+                    "open_issues": 87,
                     "owner": "amandakelake",
                     "repo": "blog",
-                    "stars": 2266
+                    "stars": 2266,
+                    "topics": [
+                      "blog",
+                      "browser",
+                      "devops",
+                      "docker",
+                      "javascript",
+                      "nodejs",
+                      "react",
+                      "vue",
+                      "webpack"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:11:26.291Z"
                 },
@@ -1072,12 +1701,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "think more！learn more!",
+                    "homepage": null,
                     "id": 119921062,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2024-03-01T11:30:15Z",
+                    "open_issues": 87,
                     "owner": "amandakelake",
                     "repo": "blog",
-                    "stars": 2266
+                    "stars": 2266,
+                    "topics": [
+                      "blog",
+                      "browser",
+                      "devops",
+                      "docker",
+                      "javascript",
+                      "nodejs",
+                      "react",
+                      "vue",
+                      "webpack"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:11:26.291Z"
                 },
@@ -1088,12 +1732,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "think more！learn more!",
+                    "homepage": null,
                     "id": 119921062,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2024-03-01T11:30:15Z",
+                    "open_issues": 87,
                     "owner": "amandakelake",
                     "repo": "blog",
-                    "stars": 2266
+                    "stars": 2266,
+                    "topics": [
+                      "blog",
+                      "browser",
+                      "devops",
+                      "docker",
+                      "javascript",
+                      "nodejs",
+                      "react",
+                      "vue",
+                      "webpack"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:11:26.291Z"
                 },
@@ -1104,12 +1763,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "think more！learn more!",
+                    "homepage": null,
                     "id": 119921062,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2024-03-01T11:30:15Z",
+                    "open_issues": 87,
                     "owner": "amandakelake",
                     "repo": "blog",
-                    "stars": 2266
+                    "stars": 2266,
+                    "topics": [
+                      "blog",
+                      "browser",
+                      "devops",
+                      "docker",
+                      "javascript",
+                      "nodejs",
+                      "react",
+                      "vue",
+                      "webpack"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:11:26.291Z"
                 }
@@ -1130,12 +1804,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✅ The Node.js best practices list (July 2026)",
+            "homepage": "https://twitter.com/nodepractices/",
             "id": 103633984,
             "language": "Dockerfile",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-06-15T11:41:04Z",
+            "open_issues": 137,
             "owner": "goldbergyoni",
             "repo": "nodebestpractices",
-            "stars": 105603
+            "stars": 105605,
+            "topics": [
+              "best-practices",
+              "es6",
+              "eslint",
+              "express",
+              "expressjs",
+              "javascript",
+              "jest",
+              "microservices",
+              "mocha",
+              "node-js",
+              "nodejs",
+              "nodejs-development",
+              "npm",
+              "rest",
+              "style-guide",
+              "styleguide",
+              "testing",
+              "types"
+            ]
           },
           "first_seen": "2026-08-28T21:11:26.291Z"
         },
@@ -1146,12 +1844,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official NGINX Open Source repository.",
+            "homepage": "https://nginx.org/",
             "id": 37912398,
             "language": "C",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-26T11:14:21Z",
+            "open_issues": 476,
             "owner": "nginx",
             "repo": "nginx",
-            "stars": 31519
+            "stars": 31519,
+            "topics": [
+              "content-cache",
+              "http",
+              "http2",
+              "http3",
+              "https",
+              "load-balancer",
+              "mail-proxy-server",
+              "nginx",
+              "quic",
+              "reverse-proxy",
+              "security",
+              "tcp-proxy-server",
+              "tls",
+              "udp-proxy-server",
+              "web-server"
+            ]
           },
           "first_seen": "2026-08-28T21:11:26.291Z"
         },
@@ -1162,12 +1881,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nodejs学习笔记以及经验总结，公众号\"程序猿小卡\"",
+            "homepage": null,
             "id": 72754314,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2023-08-22T05:55:31Z",
+            "open_issues": 11,
             "owner": "chyingp",
             "repo": "nodejs-learning-guide",
-            "stars": 6865
+            "stars": 6865,
+            "topics": [
+              "crypto",
+              "express",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T21:11:26.291Z"
         },
@@ -1178,12 +1906,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://github.com/denoland/deno",
             "id": 146788128,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-08-15T13:18:38Z",
+            "open_issues": 0,
             "owner": "ry",
             "repo": "deno",
-            "stars": 448
+            "stars": 448,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:26.291Z"
         },
@@ -1209,12 +1942,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Example Koa apps",
+                        "homepage": null,
                         "id": 14768185,
                         "language": "JavaScript",
+                        "license": null,
                         "last_commit": "2025-07-31T08:24:38Z",
+                        "open_issues": 15,
                         "owner": "koajs",
                         "repo": "examples",
-                        "stars": 4530
+                        "stars": 4530,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T21:11:26.291Z"
                     },
@@ -1225,12 +1963,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": true,
+                        "description": "[MAINTAINERS WANTED] An intro to koa via a set of self-guided workshops",
+                        "homepage": null,
                         "id": 22051243,
                         "language": "JavaScript",
+                        "license": "MIT",
                         "last_commit": "2024-06-03T15:34:08Z",
+                        "open_issues": 13,
                         "owner": "koajs",
                         "repo": "kick-off-koa",
-                        "stars": 699
+                        "stars": 699,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T21:11:26.291Z"
                     },
@@ -1241,12 +1984,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Koa Training Workshop",
+                        "homepage": null,
                         "id": 21316961,
                         "language": "JavaScript",
+                        "license": "MIT",
                         "last_commit": "2026-02-16T13:08:22Z",
+                        "open_issues": 9,
                         "owner": "koajs",
                         "repo": "workshop",
-                        "stars": 443
+                        "stars": 443,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T21:11:26.291Z"
                     }
@@ -1266,12 +2014,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "《Node.js 调试指南》",
+                    "homepage": null,
                     "id": 123243705,
                     "language": null,
+                    "license": null,
                     "last_commit": "2021-09-02T18:49:43Z",
+                    "open_issues": 8,
                     "owner": "nswbmw",
                     "repo": "node-in-debugging",
-                    "stars": 6454
+                    "stars": 6454,
+                    "topics": [
+                      "debug",
+                      "debugging",
+                      "guide",
+                      "node",
+                      "tutorial"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:11:26.291Z"
                 }
@@ -1292,12 +2051,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":octocat:Vue.js 源码解析",
+            "homepage": "https://github.com/answershuto/learnVue",
             "id": 89577951,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-02-16T16:48:01Z",
+            "open_issues": 19,
             "owner": "answershuto",
             "repo": "learnVue",
-            "stars": 12666
+            "stars": 12666,
+            "topics": [
+              "diff",
+              "dom",
+              "dom-nexttick",
+              "vue",
+              "vue-router",
+              "vue-template",
+              "vuex"
+            ]
           },
           "first_seen": "2026-08-28T21:11:26.291Z"
         },
@@ -1308,12 +2080,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "梁少峰的个人博客",
+            "homepage": null,
             "id": 47445046,
             "language": null,
+            "license": null,
             "last_commit": "2023-09-06T13:30:30Z",
+            "open_issues": 116,
             "owner": "youngwind",
             "repo": "blog",
-            "stars": 4655
+            "stars": 4655,
+            "topics": [
+              "blog",
+              "react",
+              "vue",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T21:11:26.291Z"
         },
@@ -1324,12 +2106,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "vue 源码解析及实现",
+            "homepage": null,
             "id": 88845624,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-09-28T05:02:03Z",
+            "open_issues": 4,
             "owner": "fastCreator",
             "repo": "MVVM",
-            "stars": 225
+            "stars": 225,
+            "topics": [
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T21:11:26.291Z"
         },
@@ -1340,12 +2129,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "vue实现原理浅析",
+            "homepage": null,
             "id": 93227606,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-05-02T03:31:16Z",
+            "open_issues": 0,
             "owner": "coderzzp",
             "repo": "vue-come-true",
-            "stars": 134
+            "stars": 134,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:26.291Z"
         }
@@ -1362,12 +2156,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":crab: Small exercises to get you used to reading and writing Rust code!",
+            "homepage": "https://rustlings.rust-lang.org",
             "id": 42489829,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-24T21:17:41Z",
+            "open_issues": 34,
             "owner": "rust-lang",
             "repo": "rustlings",
-            "stars": 63984
+            "stars": 63986,
+            "topics": [
+              "beginner-friendly",
+              "exercises",
+              "rust",
+              "rustlings"
+            ]
           },
           "first_seen": "2026-08-28T21:11:26.291Z"
         },
@@ -1378,12 +2182,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Rust code and resources.",
+            "homepage": null,
             "id": 21938243,
             "language": "Rust",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-28T11:12:13Z",
+            "open_issues": 8,
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 59028
+            "stars": 59031,
+            "topics": [
+              "awesome",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T21:11:26.291Z"
         },
@@ -1394,12 +2206,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
+            "homepage": "https://google.github.io/comprehensive-rust/",
             "id": 580836813,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T21:23:21Z",
+            "open_issues": 171,
             "owner": "google",
             "repo": "comprehensive-rust",
-            "stars": 33331
+            "stars": 33331,
+            "topics": [
+              "android",
+              "classroom",
+              "course",
+              "google",
+              "guide",
+              "rust",
+              "training",
+              "training-materials"
+            ]
           },
           "first_seen": "2026-08-28T21:11:26.291Z"
         },
@@ -1410,12 +2236,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Rust Programming Language",
+            "homepage": "https://doc.rust-lang.org/book/",
             "id": 47854924,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-14T01:25:26Z",
+            "open_issues": 421,
             "owner": "rust-lang",
             "repo": "book",
-            "stars": 18250
+            "stars": 18250,
+            "topics": [
+              "book",
+              "mdbook",
+              "rust",
+              "rust-programming-language"
+            ]
           },
           "first_seen": "2026-08-28T21:11:26.291Z"
         },
@@ -1426,12 +2262,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "learn rust from scratch",
+            "homepage": null,
             "id": 530880884,
             "language": "Rust",
+            "license": null,
             "last_commit": "2023-04-23T02:30:03Z",
+            "open_issues": 1,
             "owner": "chenfengyanyu",
             "repo": "my-rust-practice",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:26.291Z"
         }
@@ -1440,15 +2281,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:11:26.291Z",
+    "last_updated": "2026-08-29T04:26:23.139Z",
     "original_repository_info": {
       "archived": false,
+      "description": "文档着重构建一个完整的「前端技术架构图谱」，方便 F2E(Front End Engineering又称FEE、F2E) 学习与进阶。",
+      "homepage": null,
       "id": 133954704,
       "language": "JavaScript",
+      "license": null,
       "last_commit": "2023-02-28T13:50:04Z",
+      "open_issues": 1,
       "owner": "f2e-awesome",
       "repo": "knowledge",
-      "stars": 1963
+      "stars": 1963,
+      "topics": [
+        "awesome",
+        "canvas",
+        "css",
+        "dns",
+        "dom",
+        "electron",
+        "f2e",
+        "graphql",
+        "html",
+        "javascript",
+        "js",
+        "nginx",
+        "pwa",
+        "react",
+        "react-native",
+        "server",
+        "vue",
+        "webgl",
+        "webpack",
+        "webpack4"
+      ]
     },
     "original_repository_sha": "81ca0902aa98fb60c83067e312924bfa28c3ba72",
     "enhanced_repository": "enhansome/enhansome-knowledge",

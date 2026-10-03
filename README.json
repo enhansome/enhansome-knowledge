@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "React 同构应用 PWA 升级指南",
-          "description": "☆",
+          "description": "happylindz/blog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -54,7 +54,7 @@
         {
           "node_type": "item",
           "title": "Taro 多端统一开发框架",
-          "description": null,
+          "description": "NervJS/taro",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -102,7 +102,7 @@
             {
               "node_type": "item",
               "title": "WebSocket",
-              "description": null,
+              "description": "Pines-Cheng/blog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -133,7 +133,7 @@
         {
           "node_type": "item",
           "title": "CMD",
-          "description": "☆",
+          "description": "seajs/seajs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -154,7 +154,7 @@
         {
           "node_type": "item",
           "title": "AMD",
-          "description": "☆",
+          "description": "amdjs/amdjs-api",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -181,7 +181,7 @@
         {
           "node_type": "item",
           "title": "JavaScript 算法与数据结构",
-          "description": "☆☆☆",
+          "description": "trekhleb/javascript-algorithms",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -194,7 +194,7 @@
             "open_issues": 408,
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196864,
+            "stars": 196867,
             "topics": [
               "algorithm",
               "algorithms",
@@ -217,7 +217,7 @@
         {
           "node_type": "item",
           "title": "Airbnb JavaScript",
-          "description": "**",
+          "description": "airbnb/javascript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -227,10 +227,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-04-16T19:24:09Z",
-            "open_issues": 167,
+            "open_issues": 168,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148303,
+            "stars": 148301,
             "topics": [
               "arrow-functions",
               "es2015",
@@ -259,7 +259,7 @@
         {
           "node_type": "item",
           "title": "Nginx",
-          "description": "☆☆☆",
+          "description": "nginx/nginx",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -272,7 +272,7 @@
             "open_issues": 451,
             "owner": "nginx",
             "repo": "nginx",
-            "stars": 31779,
+            "stars": 31781,
             "topics": [
               "content-cache",
               "http",
@@ -302,7 +302,7 @@
         {
           "node_type": "item",
           "title": "Google V8",
-          "description": "☆☆☆",
+          "description": "v8/v8",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -311,11 +311,11 @@
             "id": 24420506,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T16:00:22Z",
+            "last_commit": "2026-10-03T03:15:52Z",
             "open_issues": 23,
             "owner": "v8",
             "repo": "v8",
-            "stars": 25269,
+            "stars": 25271,
             "topics": [
               "compiler",
               "interpreter",
@@ -340,7 +340,7 @@
             {
               "node_type": "item",
               "title": "原型与原型链",
-              "description": null,
+              "description": "mqyqingfeng/Blog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -390,7 +390,7 @@
             {
               "node_type": "item",
               "title": "为什么要有 ES6",
-              "description": null,
+              "description": "jeyvie/thoughts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -418,7 +418,7 @@
             {
               "node_type": "item",
               "title": "33 Concepts Every JavaScript Developer Should Know",
-              "description": null,
+              "description": "leonardomso/33-js-concepts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -431,7 +431,7 @@
                 "open_issues": 8,
                 "owner": "leonardomso",
                 "repo": "33-js-concepts",
-                "stars": 66532,
+                "stars": 66534,
                 "topics": [
                   "angular",
                   "concepts",
@@ -458,7 +458,7 @@
                 {
                   "node_type": "item",
                   "title": "Generator",
-                  "description": null,
+                  "description": "jeyvie/understanding-ES6",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -482,7 +482,7 @@
                 {
                   "node_type": "item",
                   "title": "Promise",
-                  "description": null,
+                  "description": "jeyvie/understanding-ES6",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -506,7 +506,7 @@
                 {
                   "node_type": "item",
                   "title": "Module",
-                  "description": null,
+                  "description": "jeyvie/understanding-ES6",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -530,7 +530,7 @@
                 {
                   "node_type": "item",
                   "title": "Class",
-                  "description": null,
+                  "description": "jeyvie/understanding-ES6",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -568,7 +568,7 @@
                 {
                   "node_type": "item",
                   "title": "TypeScript 总体架构",
-                  "description": null,
+                  "description": "microsoft/TypeScript",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -577,11 +577,11 @@
                     "id": 20929025,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T16:08:13Z",
-                    "open_issues": 5053,
+                    "last_commit": "2026-10-03T04:24:16Z",
+                    "open_issues": 5052,
                     "owner": "microsoft",
                     "repo": "TypeScript",
-                    "stars": 111308,
+                    "stars": 111314,
                     "topics": [
                       "javascript",
                       "language",
@@ -601,7 +601,7 @@
                 {
                   "node_type": "item",
                   "title": "Up & Going",
-                  "description": null,
+                  "description": "getify/You-Dont-Know-JS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -636,7 +636,7 @@
                 {
                   "node_type": "item",
                   "title": "Scope & Closures",
-                  "description": null,
+                  "description": "getify/You-Dont-Know-JS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -671,7 +671,7 @@
                 {
                   "node_type": "item",
                   "title": "this & Object Prototypes",
-                  "description": null,
+                  "description": "getify/You-Dont-Know-JS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -706,7 +706,7 @@
                 {
                   "node_type": "item",
                   "title": "Types & Grammar",
-                  "description": null,
+                  "description": "getify/You-Dont-Know-JS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -741,7 +741,7 @@
                 {
                   "node_type": "item",
                   "title": "Async & Performance",
-                  "description": null,
+                  "description": "getify/You-Dont-Know-JS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -776,7 +776,7 @@
                 {
                   "node_type": "item",
                   "title": "ES6 & Beyond",
-                  "description": null,
+                  "description": "getify/You-Dont-Know-JS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -818,7 +818,7 @@
                 {
                   "node_type": "item",
                   "title": "在 V8 引擎里 5 个优化代码的技巧",
-                  "description": null,
+                  "description": "xitu/gold-miner",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -831,7 +831,7 @@
                     "open_issues": 15,
                     "owner": "xitu",
                     "repo": "gold-miner",
-                    "stars": 34365,
+                    "stars": 34367,
                     "topics": [
                       "ai",
                       "android",
@@ -850,7 +850,7 @@
                 {
                   "node_type": "item",
                   "title": "内存管理 + 处理常见的4种内存泄漏",
-                  "description": null,
+                  "description": "xitu/gold-miner",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -863,7 +863,7 @@
                     "open_issues": 15,
                     "owner": "xitu",
                     "repo": "gold-miner",
-                    "stars": 34365,
+                    "stars": 34367,
                     "topics": [
                       "ai",
                       "android",
@@ -882,7 +882,7 @@
                 {
                   "node_type": "item",
                   "title": "事件循环和异步编程的崛起 + 5个如何更好的使用 async/await 编码的技巧",
-                  "description": null,
+                  "description": "xitu/gold-miner",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -895,7 +895,7 @@
                     "open_issues": 15,
                     "owner": "xitu",
                     "repo": "gold-miner",
-                    "stars": 34365,
+                    "stars": 34367,
                     "topics": [
                       "ai",
                       "android",
@@ -914,7 +914,7 @@
                 {
                   "node_type": "item",
                   "title": "深入剖析 WebSockets 和拥有 SSE 技术 的 HTTP/2，以及如何在二者中做出正确的选择",
-                  "description": null,
+                  "description": "xitu/gold-miner",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -927,7 +927,7 @@
                     "open_issues": 15,
                     "owner": "xitu",
                     "repo": "gold-miner",
-                    "stars": 34365,
+                    "stars": 34367,
                     "topics": [
                       "ai",
                       "android",
@@ -946,7 +946,7 @@
                 {
                   "node_type": "item",
                   "title": "对比 WebAssembly + 为什么在某些场景下它比 JavaScript 更合适",
-                  "description": null,
+                  "description": "xitu/gold-miner",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -959,7 +959,7 @@
                     "open_issues": 15,
                     "owner": "xitu",
                     "repo": "gold-miner",
-                    "stars": 34365,
+                    "stars": 34367,
                     "topics": [
                       "ai",
                       "android",
@@ -978,7 +978,7 @@
                 {
                   "node_type": "item",
                   "title": "Web Worker 的内部构造以及 5 种你应当使用它的场景",
-                  "description": null,
+                  "description": "xitu/gold-miner",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -991,7 +991,7 @@
                     "open_issues": 15,
                     "owner": "xitu",
                     "repo": "gold-miner",
-                    "stars": 34365,
+                    "stars": 34367,
                     "topics": [
                       "ai",
                       "android",
@@ -1019,7 +1019,7 @@
             {
               "node_type": "item",
               "title": "30S JS",
-              "description": "☆☆",
+              "description": "Chalarangelo/30-seconds-of-code",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1032,7 +1032,7 @@
                 "open_issues": 0,
                 "owner": "Chalarangelo",
                 "repo": "30-seconds-of-code",
-                "stars": 129305,
+                "stars": 129308,
                 "topics": [
                   "astro",
                   "awesome-list",
@@ -1054,7 +1054,7 @@
             {
               "node_type": "item",
               "title": "33 Concepts Every JavaScript Developer Should Know",
-              "description": null,
+              "description": "leonardomso/33-js-concepts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1067,7 +1067,7 @@
                 "open_issues": 8,
                 "owner": "leonardomso",
                 "repo": "33-js-concepts",
-                "stars": 66532,
+                "stars": 66534,
                 "topics": [
                   "angular",
                   "concepts",
@@ -1089,7 +1089,7 @@
             {
               "node_type": "item",
               "title": "ES6 语法侦测",
-              "description": "☆",
+              "description": "ruanyf/es-checker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1118,7 +1118,7 @@
         {
           "node_type": "item",
           "title": "spy-debugger",
-          "description": "☆☆",
+          "description": "wuchangming/spy-debugger",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1131,7 +1131,7 @@
             "open_issues": 106,
             "owner": "wuchangming",
             "repo": "spy-debugger",
-            "stars": 7618,
+            "stars": 7617,
             "topics": [
               "debug",
               "spy-debugger",
@@ -1155,7 +1155,7 @@
             {
               "node_type": "item",
               "title": "UI 自动化测试",
-              "description": "☆☆☆",
+              "description": "AirtestProject/Airtest",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1194,7 +1194,7 @@
         {
           "node_type": "item",
           "title": "前端代码异常监控实战",
-          "description": "☆☆",
+          "description": "happylindz/blog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1215,7 +1215,7 @@
         {
           "node_type": "item",
           "title": "APM",
-          "description": "☆☆",
+          "description": "f2e-awesome/monitoring",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1258,7 +1258,7 @@
                 {
                   "node_type": "item",
                   "title": "减小前端资源大小",
-                  "description": "☆☆",
+                  "description": "yued-fe/y-translation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1271,7 +1271,7 @@
                     "open_issues": 2,
                     "owner": "yued-fe",
                     "repo": "y-translation",
-                    "stars": 154,
+                    "stars": 152,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:26.291Z"
@@ -1279,7 +1279,7 @@
                 {
                   "node_type": "item",
                   "title": "利用好持久化缓存",
-                  "description": "☆☆☆",
+                  "description": "yued-fe/y-translation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1292,7 +1292,7 @@
                     "open_issues": 2,
                     "owner": "yued-fe",
                     "repo": "y-translation",
-                    "stars": 154,
+                    "stars": 152,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:26.291Z"
@@ -1300,7 +1300,7 @@
                 {
                   "node_type": "item",
                   "title": "监控和分析应用",
-                  "description": "☆☆☆",
+                  "description": "yued-fe/y-translation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1313,7 +1313,7 @@
                     "open_issues": 2,
                     "owner": "yued-fe",
                     "repo": "y-translation",
-                    "stars": 154,
+                    "stars": 152,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:26.291Z"
@@ -1330,7 +1330,7 @@
             {
               "node_type": "item",
               "title": "Babel 插件手册",
-              "description": null,
+              "description": "jamiebuilds/babel-handbook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1367,7 +1367,7 @@
             {
               "node_type": "item",
               "title": "build-your-own-angularjs",
-              "description": null,
+              "description": "teropa/build-your-own-angularjs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1395,7 +1395,7 @@
             {
               "node_type": "item",
               "title": "react-app-rewired",
-              "description": null,
+              "description": "timarney/react-app-rewired",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1423,7 +1423,7 @@
             {
               "node_type": "item",
               "title": "30 seconds of React",
-              "description": "☆☆",
+              "description": "Chalarangelo/30-seconds-of-react",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1455,7 +1455,7 @@
             {
               "node_type": "item",
               "title": "Redux-Saga",
-              "description": "☆☆☆",
+              "description": "superRaytin/redux-saga-in-chinese",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1481,7 +1481,7 @@
                 {
                   "node_type": "item",
                   "title": "Redux 中文文档",
-                  "description": "☆☆",
+                  "description": "nefe/redux-in-chinese",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1516,7 +1516,7 @@
         {
           "node_type": "item",
           "title": "国内低代码平台",
-          "description": "☆☆☆",
+          "description": "taowen/awesome-lowcode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1529,7 +1529,7 @@
             "open_issues": 10,
             "owner": "taowen",
             "repo": "awesome-lowcode",
-            "stars": 14732,
+            "stars": 14734,
             "topics": [
               "awesome",
               "awsome",
@@ -1549,7 +1549,7 @@
         {
           "node_type": "item",
           "title": "30s 面试",
-          "description": "☆",
+          "description": "Chalarangelo/30-seconds-of-interviews",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1562,7 +1562,7 @@
             "open_issues": 19,
             "owner": "Chalarangelo",
             "repo": "30-seconds-of-interviews",
-            "stars": 12127,
+            "stars": 12126,
             "topics": [
               "awesome-list",
               "css",
@@ -1588,7 +1588,7 @@
         {
           "node_type": "item",
           "title": "前端精读周刊",
-          "description": null,
+          "description": "ascoders/weekly",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1601,7 +1601,7 @@
             "open_issues": 16,
             "owner": "ascoders",
             "repo": "weekly",
-            "stars": 31243,
+            "stars": 31247,
             "topics": [
               "awesome",
               "frontend",
@@ -1619,7 +1619,7 @@
         {
           "node_type": "item",
           "title": "你可能不知道的前端知识点",
-          "description": "☆☆",
+          "description": "justjavac/the-front-end-knowledge-you-may-not-know",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1666,7 +1666,7 @@
                 {
                   "node_type": "item",
                   "title": "从性能优化的角度看缓存",
-                  "description": null,
+                  "description": "amandakelake/blog",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1697,7 +1697,7 @@
                 {
                   "node_type": "item",
                   "title": "浏览器缓存机制：强缓存、协商缓存",
-                  "description": null,
+                  "description": "amandakelake/blog",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1728,7 +1728,7 @@
                 {
                   "node_type": "item",
                   "title": "数据存储：cookie、Storage、indexedDB",
-                  "description": null,
+                  "description": "amandakelake/blog",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1759,7 +1759,7 @@
                 {
                   "node_type": "item",
                   "title": "离线应用缓存：App Cache => Manifest",
-                  "description": null,
+                  "description": "amandakelake/blog",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1800,7 +1800,7 @@
         {
           "node_type": "item",
           "title": "Nodejs 最佳实践",
-          "description": "☆☆☆",
+          "description": "goldbergyoni/nodebestpractices",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1813,7 +1813,7 @@
             "open_issues": 137,
             "owner": "goldbergyoni",
             "repo": "nodebestpractices",
-            "stars": 105652,
+            "stars": 105651,
             "topics": [
               "best-practices",
               "es6",
@@ -1840,7 +1840,7 @@
         {
           "node_type": "item",
           "title": "Nginx",
-          "description": "☆☆☆",
+          "description": "nginx/nginx",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1853,7 +1853,7 @@
             "open_issues": 451,
             "owner": "nginx",
             "repo": "nginx",
-            "stars": 31779,
+            "stars": 31781,
             "topics": [
               "content-cache",
               "http",
@@ -1877,7 +1877,7 @@
         {
           "node_type": "item",
           "title": "nodejs-learning-guide",
-          "description": "☆☆☆",
+          "description": "chyingp/nodejs-learning-guide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1902,7 +1902,7 @@
         {
           "node_type": "item",
           "title": "deno",
-          "description": "☆☆",
+          "description": "ry/deno",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1938,7 +1938,7 @@
                     {
                       "node_type": "item",
                       "title": "koajs examples",
-                      "description": "☆☆",
+                      "description": "koajs/examples",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1959,7 +1959,7 @@
                     {
                       "node_type": "item",
                       "title": "kick-off-koa",
-                      "description": "☆",
+                      "description": "koajs/kick-off-koa",
                       "children": [],
                       "repo_info": {
                         "archived": true,
@@ -1980,7 +1980,7 @@
                     {
                       "node_type": "item",
                       "title": "koa workshop",
-                      "description": "☆☆",
+                      "description": "koajs/workshop",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2010,7 +2010,7 @@
                 {
                   "node_type": "item",
                   "title": "node debug",
-                  "description": "☆☆",
+                  "description": "nswbmw/node-in-debugging",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2047,7 +2047,7 @@
         {
           "node_type": "item",
           "title": "Vue.js 源码解析",
-          "description": "☆☆☆",
+          "description": "answershuto/learnVue",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2076,7 +2076,7 @@
         {
           "node_type": "item",
           "title": "Webpack 源码",
-          "description": "☆☆☆",
+          "description": "youngwind/blog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2102,7 +2102,7 @@
         {
           "node_type": "item",
           "title": "自己动手做一个 Vue",
-          "description": "☆☆☆",
+          "description": "fastCreator/MVVM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2125,7 +2125,7 @@
         {
           "node_type": "item",
           "title": "vue-come-true",
-          "description": "☆☆☆",
+          "description": "coderzzp/vue-come-true",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2165,7 +2165,7 @@
             "open_issues": 37,
             "owner": "rust-lang",
             "repo": "rustlings",
-            "stars": 64261,
+            "stars": 64265,
             "topics": [
               "beginner-friendly",
               "exercises",
@@ -2191,7 +2191,7 @@
             "open_issues": 9,
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 59643,
+            "stars": 59657,
             "topics": [
               "awesome",
               "rust"
@@ -2211,11 +2211,11 @@
             "id": 580836813,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T15:22:46Z",
-            "open_issues": 172,
+            "last_commit": "2026-10-02T21:58:28Z",
+            "open_issues": 170,
             "owner": "google",
             "repo": "comprehensive-rust",
-            "stars": 33400,
+            "stars": 33399,
             "topics": [
               "android",
               "classroom",
@@ -2245,7 +2245,7 @@
             "open_issues": 448,
             "owner": "rust-lang",
             "repo": "book",
-            "stars": 18360,
+            "stars": 18362,
             "topics": [
               "book",
               "mdbook",
@@ -2281,7 +2281,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:17:21.840Z",
+    "last_updated": "2026-10-03T04:53:36.827Z",
     "original_repository_info": {
       "archived": false,
       "description": "文档着重构建一个完整的「前端技术架构图谱」，方便 F2E(Front End Engineering又称FEE、F2E) 学习与进阶。",

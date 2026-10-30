@@ -63,11 +63,11 @@
             "id": 128624453,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T09:27:27Z",
-            "open_issues": 1597,
+            "last_commit": "2026-10-30T10:51:03Z",
+            "open_issues": 1589,
             "owner": "NervJS",
             "repo": "taro",
-            "stars": 37737,
+            "stars": 37740,
             "topics": [
               "javascript",
               "jquery",
@@ -194,7 +194,7 @@
             "open_issues": 434,
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196707,
+            "stars": 196710,
             "topics": [
               "algorithm",
               "algorithms",
@@ -230,7 +230,7 @@
             "open_issues": 169,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148035,
+            "stars": 148032,
             "topics": [
               "arrow-functions",
               "es2015",
@@ -268,11 +268,11 @@
             "id": 37912398,
             "language": "C",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-28T19:37:19Z",
-            "open_issues": 444,
+            "last_commit": "2026-10-29T18:53:16Z",
+            "open_issues": 445,
             "owner": "nginx",
             "repo": "nginx",
-            "stars": 32005,
+            "stars": 32014,
             "topics": [
               "content-cache",
               "http",
@@ -311,11 +311,11 @@
             "id": 24420506,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T16:37:18Z",
+            "last_commit": "2026-10-30T16:22:02Z",
             "open_issues": 25,
             "owner": "v8",
             "repo": "v8",
-            "stars": 25310,
+            "stars": 25311,
             "topics": [
               "compiler",
               "interpreter",
@@ -353,7 +353,7 @@
                 "open_issues": 331,
                 "owner": "mqyqingfeng",
                 "repo": "Blog",
-                "stars": 31054,
+                "stars": 31056,
                 "topics": [
                   "advanced",
                   "blog",
@@ -378,7 +378,7 @@
                 "open_issues": 331,
                 "owner": "mqyqingfeng",
                 "repo": "Blog",
-                "stars": 31054,
+                "stars": 31056,
                 "topics": [
                   "advanced",
                   "blog",
@@ -577,11 +577,11 @@
                     "id": 20929025,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-29T15:59:41Z",
-                    "open_issues": 5198,
+                    "last_commit": "2026-10-30T16:01:45Z",
+                    "open_issues": 5221,
                     "owner": "microsoft",
                     "repo": "TypeScript",
-                    "stars": 111667,
+                    "stars": 111680,
                     "topics": [
                       "javascript",
                       "language",
@@ -614,7 +614,7 @@
                     "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184836,
+                    "stars": 184834,
                     "topics": [
                       "async",
                       "book",
@@ -649,7 +649,7 @@
                     "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184836,
+                    "stars": 184834,
                     "topics": [
                       "async",
                       "book",
@@ -684,7 +684,7 @@
                     "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184836,
+                    "stars": 184834,
                     "topics": [
                       "async",
                       "book",
@@ -719,7 +719,7 @@
                     "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184836,
+                    "stars": 184834,
                     "topics": [
                       "async",
                       "book",
@@ -754,7 +754,7 @@
                     "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184836,
+                    "stars": 184834,
                     "topics": [
                       "async",
                       "book",
@@ -789,7 +789,7 @@
                     "open_issues": 2,
                     "owner": "getify",
                     "repo": "You-Dont-Know-JS",
-                    "stars": 184836,
+                    "stars": 184834,
                     "topics": [
                       "async",
                       "book",
@@ -1032,7 +1032,7 @@
                 "open_issues": 3,
                 "owner": "Chalarangelo",
                 "repo": "30-seconds-of-code",
-                "stars": 129366,
+                "stars": 129377,
                 "topics": [
                   "astro",
                   "awesome-list",
@@ -1131,7 +1131,7 @@
             "open_issues": 106,
             "owner": "wuchangming",
             "repo": "spy-debugger",
-            "stars": 7621,
+            "stars": 7620,
             "topics": [
               "debug",
               "spy-debugger",
@@ -1168,7 +1168,7 @@
                 "open_issues": 486,
                 "owner": "AirtestProject",
                 "repo": "Airtest",
-                "stars": 9629,
+                "stars": 9628,
                 "topics": [
                   "android",
                   "automated-testing",
@@ -1408,7 +1408,7 @@
                 "open_issues": 25,
                 "owner": "timarney",
                 "repo": "react-app-rewired",
-                "stars": 9836,
+                "stars": 9835,
                 "topics": [
                   "config",
                   "create-react-app",
@@ -1562,7 +1562,7 @@
             "open_issues": 19,
             "owner": "Chalarangelo",
             "repo": "30-seconds-of-interviews",
-            "stars": 12126,
+            "stars": 12125,
             "topics": [
               "awesome-list",
               "css",
@@ -1598,10 +1598,10 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2024-09-09T01:39:37Z",
-            "open_issues": 23,
+            "open_issues": 24,
             "owner": "ascoders",
             "repo": "weekly",
-            "stars": 31593,
+            "stars": 31612,
             "topics": [
               "awesome",
               "frontend",
@@ -1813,7 +1813,7 @@
             "open_issues": 141,
             "owner": "goldbergyoni",
             "repo": "nodebestpractices",
-            "stars": 105686,
+            "stars": 105687,
             "topics": [
               "best-practices",
               "es6",
@@ -1849,11 +1849,11 @@
             "id": 37912398,
             "language": "C",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-28T19:37:19Z",
-            "open_issues": 444,
+            "last_commit": "2026-10-29T18:53:16Z",
+            "open_issues": 445,
             "owner": "nginx",
             "repo": "nginx",
-            "stars": 32005,
+            "stars": 32014,
             "topics": [
               "content-cache",
               "http",
@@ -2023,7 +2023,7 @@
                     "open_issues": 8,
                     "owner": "nswbmw",
                     "repo": "node-in-debugging",
-                    "stars": 6448,
+                    "stars": 6447,
                     "topics": [
                       "debug",
                       "debugging",
@@ -2165,7 +2165,7 @@
             "open_issues": 38,
             "owner": "rust-lang",
             "repo": "rustlings",
-            "stars": 64491,
+            "stars": 64507,
             "topics": [
               "beginner-friendly",
               "exercises",
@@ -2187,11 +2187,11 @@
             "id": 21938243,
             "language": "Rust",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-29T11:48:56Z",
+            "last_commit": "2026-10-30T08:13:37Z",
             "open_issues": 8,
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 60188,
+            "stars": 60208,
             "topics": [
               "awesome",
               "rust"
@@ -2215,7 +2215,7 @@
             "open_issues": 171,
             "owner": "google",
             "repo": "comprehensive-rust",
-            "stars": 33478,
+            "stars": 33481,
             "topics": [
               "android",
               "classroom",
@@ -2242,10 +2242,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-10-28T18:58:38Z",
-            "open_issues": 456,
+            "open_issues": 457,
             "owner": "rust-lang",
             "repo": "book",
-            "stars": 18480,
+            "stars": 18487,
             "topics": [
               "book",
               "mdbook",
@@ -2281,7 +2281,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T16:57:31.357Z",
+    "last_updated": "2026-10-30T16:43:01.389Z",
     "original_repository_info": {
       "archived": false,
       "description": "文档着重构建一个完整的「前端技术架构图谱」，方便 F2E(Front End Engineering又称FEE、F2E) 学习与进阶。",
@@ -2293,7 +2293,7 @@
       "open_issues": 2,
       "owner": "f2e-awesome",
       "repo": "knowledge",
-      "stars": 1968,
+      "stars": 1969,
       "topics": [
         "awesome",
         "canvas",
